@@ -134,6 +134,32 @@ Passo 4:
 * Caso o usuário não preencha os campos obrigatórios, o sistema indicará com realce e não permitirá que o usuário atualize o cadastro.
 
 
+## 8.4. Avaliar Conteúdo
+**Nome do caso de uso:** Avaliação de Conteúdo
+
+**Resumo:** Após acessar o sistema, cada membro poderá avaliar os filmes, séries e livros que desejar.
+
+**Pré-condições:**
+* Ser registrado.
+
+**Pós-condições:**
+* O conteúdo será enviado para avaliação.
+
+**Fluxo principal:** 
+1. O usuário realiza o login.
+2. O usuário, em sua pagina principal, vizualiza os conteúdos já publicados.
+3. Seleciona o conteúdo que quiser avaliar.
+4. Seleciona a opção Adiconar Comentário.
+5. Informa uma nota e inclui um comentário obrigatório.
+6. O sistema publica a avaliação.
+
+**Fluxos alternativos:**
+Passo 5:
+* Caso o usuário não preencha os campos obrigatórios, o sistema indicará com realce e não permitirá que o usuário realize a avaliação.
+
+
+
+
 # 9. Wireframes
 
 
