@@ -211,6 +211,29 @@ Passo 3:
 * Caso o usuário não tenha realizado nenhuma avalição, o sistema exibirá a mensagem "Nenhum Comentário Disponível".
 
 
+## 8.6. Pesquisar Usuário
+**Nome do caso de uso:** Pesquisar Usário 
+
+**Resumo:** Descrição:	Os membros logados poderão pesquisar por outros membros pelo nome e acessar as suas páginas pessoais.
+
+**Pré-condições:**
+* Ser registrado.
+
+**Pós-condições:**
+* Acesso a página pessoal de outros usuários.
+
+**Fluxo principal:** 
+1. O usuário realiza o login.
+2. Acessa a operação Buscar Novos Amigos.
+3. Insere o nome do outro usuário que pretende buscar.
+4. Seleciona a pessoa que está procurando.
+5. Acessa a página pessoal do usuário selecionado.
+
+**Fluxos alternativos:**
+Passo 3:
+* Caso o sitema não encontre o usuário que está sendo procurado, exibirá a mensagem "Usuário não encontrado".
+
+
 
 # 9. Wireframes
 
