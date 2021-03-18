@@ -84,7 +84,7 @@ c) A disponibilidade da aplicação deverá atender o padrão 99.99%, em regime 
 
 **Fluxos alternativos:**
 Passo 4:
-* Se o *username* ou a *senha* são invalidos (podendo ser ambos inválidos), o sistema retorna a mensagem "Login ou senha Inválida" e o caso de uso retorna para o passo 2.
+* Se o *username* ou a *senha* são inválidos (podendo ser ambos inválidos), o sistema retorna a mensagem "Login ou senha Inválida" e o caso de uso retorna para o passo 2.
 
 
 ## 8.2. Registrar usuário
