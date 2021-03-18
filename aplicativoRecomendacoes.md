@@ -255,9 +255,8 @@ Passo 3:
 7. Após o outro usuário aceitar a proposta, o vinculo de amizade é criado.
 
 **Fluxos alternativos:**
-Passo 5:
-* Caso o sitema não encontre o usuário que está sendo procurado, exibirá a mensagem "Usuário não encontrado"; ou
-* O outro usuário pode não aceitar o pedido de amizade e a opção fica disponível novamente ao usuário solicitante.
+Passo 3:
+* Caso o sitema não encontre o usuário que está sendo procurado, exibirá a mensagem "Usuário não encontrado".
 
 
 
