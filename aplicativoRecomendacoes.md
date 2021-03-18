@@ -111,6 +111,28 @@ Passo 4:
 * Se os dados já constarem no sistema, o usuário é recebe a mensagem "Usuário já Cadastrado"
 
 
+## 8.3. Atualizar Perfil
+**Nome do caso de uso:** Atualização de Dados do Usuário
+
+**Resumo:** Cada membro poderá, a qualquer momento, atualizar os dados do seu perfil.
+
+**Pré-condições:**
+* Ser registrado.
+
+**Pós-condições:**
+* O usuário pode acessar informações e altera-las em seu perfil.
+
+**Fluxo principal:** 
+1. O usuário realiza o login.
+2. O usuário seleciona Perfil, em seu menu de opções.
+3. Acessa a opção Editar Perfil, que aparecerá após a página de usuário ser carregada.
+4. O sistema verifica se o usuário editou algum dado e/ou preencheu os campos obrigatórios.
+5. O Perfil é atualizado.
+
+**Fluxos alternativos:**
+Passo 4:
+* Caso o usuário não preencha os campos obrigatórios, o sistema indicará com realce e não permitirá que o usuário atualize o cadastro.
+
 
 # 9. Wireframes
 
