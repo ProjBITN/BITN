@@ -187,7 +187,7 @@ Passo 4:
 
 
 ## 8.6. Acessar Avaliações Realizadas
-**Nome do caso de uso:** Acesso as avaliações. 
+**Nome do caso de uso:** Acesso as Avaliações. 
 
 **Resumo:** Cada membro terá uma página pessoal que listará todas as avaliações que ele já realizou.
 
