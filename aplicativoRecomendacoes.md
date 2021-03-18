@@ -282,6 +282,31 @@ Passo 3:
 * O usuário curtiu a publicação por engano e pode corrigir o erro clicando no “botão de curtir” novamente.
 
 
+## 8.10. Mostrar Amigos em Comum
+**Nome do caso de uso:** Mostra Amigos em Comum Entre os Membros.
+
+**Resumo:** Descrição:	Quando um membro acessar a página de outro, o sistema deverá mostrar os amigos que eles têm em comum.
+
+**Pré-condições:**
+* Ser registrado.
+
+**Pós-condições:**
+* Conteúdo “curtido”.
+
+**Fluxo principal:** 
+1. O usuário realiza o login.
+2. Acessa o perfil de outro membro;
+3. O usuário visualiza página pessoal do outro, onde encontra as informações:
+- Meus Artigos;
+- Meus Amigos;
+- Amigos em Comum;
+- Minhas Avaliações.
+
+**Fluxos alternativos:**
+Passo 3:
+* O sistema não identifica amizades em comum.
+
+
 
 # 9. Wireframes
 
