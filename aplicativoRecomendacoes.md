@@ -56,6 +56,8 @@ c) A disponibilidade da aplicação deverá atender o padrão 99.99%, em regime 
 
 d) Após o sistema ter pelo menos 10 membros cadastrados e cada membro entrar pelo menos 10 avaliações, o sistema passará a apresentar para cada membro recomendações de filmes, séries e livros que podem ser de seu interesse.
 
+e) Sempre que um membro acessar o sistema, ele deverá receber a sugestão de 3 membros que poderiam ser seus amigos. O critério será sugerir membros que têm preferências semelhantes, com base nas avaliações já realizadas.
+
 
 
 # 7. COTS (Commercial Off-The-Shelf)
@@ -305,6 +307,33 @@ Passo 3:
 **Fluxos alternativos:**
 Passo 3:
 * O sistema não identifica amizades em comum.
+
+
+## 8.11. Performance
+**Nome do caso de uso:** Mostra um relatório.
+
+**Resumo:** Descrição:	O sistema apresenta um relatório ao administrador. 
+
+**Pré-condições:**
+* Ser registrado.
+
+**Pós-condições:**
+* Acesso a um relatório de performance .
+
+**Fluxo principal:** 
+1. O usuário (administrador) realiza o login.
+2. Acessa a opção Performance no menu do usuário.
+3. Na nova tela são exibidos dados sobre:
+- Amigos (Ativos);
+- Média (Relacionados);
+- Total de Artigos (Ativos);
+- Total de Artigos ( A Validar);
+- Top 10 - Membros Mais conectados;
+- Densidade Demográfica Usuários. 
+
+**Fluxos alternativos:**
+Passo 2:
+* O sistema não identifica o usuário como administrador, portanto, não lhe mostra a opção Performance.
 
 
 
