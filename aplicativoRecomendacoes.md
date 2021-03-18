@@ -143,7 +143,7 @@ Passo 4:
 * Ser registrado.
 
 **Pós-condições:**
-* O conteúdo será enviado para avaliação.
+* A avaliação feita pelo usuário será publicada.
 
 **Fluxo principal:** 
 1. O usuário realiza o login.
