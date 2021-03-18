@@ -234,6 +234,33 @@ Passo 3:
 * Caso o sitema não encontre o usuário que está sendo procurado, exibirá a mensagem "Usuário não encontrado".
 
 
+## 8.8. Solicitar Amizade
+**Nome do caso de uso:** Solicitação de Amizade
+
+**Resumo:** Descrição:Cada membro poderá propor relacionamento de amizade a outro membro. O relacionamento de amizade será estabelecido quando o outro membro aceitar a proposta.
+
+**Pré-condições:**
+* Ser registrado.
+
+**Pós-condições:**
+* Estabelecimento de um vínculo de amizade entre dois usuários.
+
+**Fluxo principal:** 
+1. O usuário realiza o login.
+2. Acessa a operação Buscar Novos Amigos.
+3. Insere o nome do outro usuário que pretende buscar.
+4. Seleciona a pessoa que está procurando.
+5. Acessa a página pessoal do usuário selecionado.
+6. Seleciona a opção Solcitar Amizade e aguarda o aceite do outro usuário.
+7. Após o outro usuário aceitar a proposta, o vinculo de amizade é criado.
+
+**Fluxos alternativos:**
+Passo 5:
+* Caso o sitema não encontre o usuário que está sendo procurado, exibirá a mensagem "Usuário não encontrado".
+Passo 5:
+* O outro usuário pode nãoi aceitar o pedido de amizade e a opção fica disponível novamente ao usuário solicitante.
+
+
 
 # 9. Wireframes
 
