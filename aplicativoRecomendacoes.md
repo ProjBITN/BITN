@@ -176,9 +176,9 @@ Passo 5:
 2. Acessa a operação Compartilhe.
 3. Seleciona o tipo de conteúdo (filme, série ou livro).
 4. Insere as informações necessárias para o cadastro:
-- Livro: Título do Post, Titulo do Livro, Nome do Autor, Nome da Editora, Pais de Origem, Ano de Lançamento do Livro, Foto, Nota, Resenha);
+- Livro: Título do Post, Titulo do Livro, Nome do Autor, Nome da Editora, Pais de Origem, Ano de Lançamento do Livro, Foto, Nota, Resenha;
 - Filme: Título do Post, Título do Filme, Nome do Diretor, Elenco Principal, Pais, Ano, Foto, Nota, Resenhra;
-- Série: Título do Post, Título da Série, Nome do Diretor, Elenco Principal, Pais, Ano, Temporada, Foto, Nota, Resenha).
+- Série: Título do Post, Título da Série, Nome do Diretor, Elenco Principal, Pais, Ano, Temporada, Foto, Nota, Resenha.
 6. Salva e encaminha para avaliação do administrador do sistema.
 
 **Fluxos alternativos:**
