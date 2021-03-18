@@ -279,7 +279,7 @@ Passo 3:
 
 **Fluxos alternativos:**
 Passo 3:
-* O usuário curtiu a publicação por engano e pode corrigir o erro clicando no “botão de curtir” novamente..
+* O usuário curtiu a publicação por engano e pode corrigir o erro clicando no “botão de curtir” novamente.
 
 
 
