@@ -256,9 +256,8 @@ Passo 3:
 
 **Fluxos alternativos:**
 Passo 5:
-* Caso o sitema não encontre o usuário que está sendo procurado, exibirá a mensagem "Usuário não encontrado".
-Passo 5:
-* O outro usuário pode nãoi aceitar o pedido de amizade e a opção fica disponível novamente ao usuário solicitante.
+* Caso o sitema não encontre o usuário que está sendo procurado, exibirá a mensagem "Usuário não encontrado"; ou
+* O outro usuário pode não aceitar o pedido de amizade e a opção fica disponível novamente ao usuário solicitante.
 
 
 
