@@ -309,7 +309,7 @@ Passo 3:
 * O sistema não identifica amizades em comum.
 
 
-## 8.11. Performance
+## 8.11. Mostrar Relatório
 **Nome do caso de uso:** Mostra um relatório.
 
 **Resumo:** Descrição:	O sistema apresenta um relatório ao administrador. 
