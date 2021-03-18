@@ -76,7 +76,6 @@ c) A disponibilidade da aplicação deverá atender o padrão 99.99%, em regime 
 * O usuário pode obter informações e realizar funções disponíveis para o seu nível de acesso.
 
 **Fluxo principal:** 
-
 1. O usuário seleciona a operação para efetuar o login.
 2. O sistema solicita o seu *username* e a sua senha.
 3. O usuário entra seu *username*  e sua senha.
@@ -84,9 +83,32 @@ c) A disponibilidade da aplicação deverá atender o padrão 99.99%, em regime 
 5. O sistema inicia uma sessão.
 
 **Fluxos alternativos:**
-
 Passo 4:
 * Se o *username* ou a *senha* são invalidos (podendo ser ambos inválidos), o sistema retorna a mensagem "Login ou senha Inválida" e o caso de uso retorna para o passo 2.
+
+
+## 8.2. Registrar usuário
+
+**Nome do caso de uso:** Registro do Usuário 
+
+**Resumo:** Para ter acesso a informações restritas ou personalizadas, fazer recomendações ou avaliar conteúdo, o usuário precisa realizar um cadastro.
+
+**Pré-condições:**
+* Não ser registrado.
+
+**Pós-condições:**
+* O usuário pode acessar informações e realizar funções disponíveis para o seu nível de acesso.
+
+**Fluxo principal:** 
+1. O usuário seleciona a operação Cadastre-se.
+2. O usuário preencher os dados solicitados (Nome, E-mail, Data de Nascimento, Cidade, Estado, Usuário e Senha).
+3. O usuário solicita que a criação da conta.
+4. O sistema verifica se as informações não constam em seu banco de dados.
+5. O usuário é criado.
+
+**Fluxos alternativos:**
+Passo 4:
+* Se os dados já constarem no sistema, o usuário é recebe a mensagem "Usuário já Cadastrado"
 
 
 
