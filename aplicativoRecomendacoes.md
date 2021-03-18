@@ -63,6 +63,33 @@ c) A disponibilidade da aplicação deverá atender o padrão 99.99%, em regime 
 
 # 8. Casos de uso
 
+A figura a seguir apresenta o diagrama de casos de uso:
+
+
+
+**Nome do caso de uso:** Acesso do Usuário Comum
+
+**Resumo:** Para ganhar acesso a informações restritas ou personalizadas, fazer recomendações ou avaliar conteúdo, um usuário precisa se autenticar e o sistema determinará seu nível de acesso.
+
+**Pré-condições:**
+* O usuário já se registrou.
+
+**Pós-condições:**
+* O usuário pode obter informações e realizar funções disponíveis para o seu nível de acesso.
+
+**Fluxo principal:** 
+
+1. O usuário seleciona a operação para efetuar o login.
+2. O sistema solicita o seu *username* e a sua senha.
+3. O usuário entra seu *username*  e sua senha.
+4. O sistema verifica que o *username* e a senha correspondem às informações de um de seus usuários registrados.
+5. O sistema inicia uma sessão.
+
+
+**Fluxos alternativos:**
+
+Passo 4:
+* Se o *username* ou a *senha* são invalidos (podendo ser ambos inválidos), o sistema retorna a mensagem "Login ou senha Inválida" e o caso de uso retorna para o passo 2.
 
 
 
