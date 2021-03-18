@@ -63,9 +63,9 @@ c) A disponibilidade da aplicação deverá atender o padrão 99.99%, em regime 
 
 # 8. Casos de uso
 
-**Item #01**
+## 8.1. Realizar Login
 
-**Nome do caso de uso:** Acesso do Usuário Comum
+**Nome do caso de uso:** Acesso do Usuário 
 
 **Resumo:** Para ganhar acesso a informações restritas ou personalizadas, fazer recomendações ou avaliar conteúdo, um usuário precisa se autenticar e o sistema determinará seu nível de acesso.
 
