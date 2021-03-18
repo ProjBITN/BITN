@@ -63,9 +63,7 @@ c) A disponibilidade da aplicação deverá atender o padrão 99.99%, em regime 
 
 # 8. Casos de uso
 
-A figura a seguir apresenta o diagrama de casos de uso:
-
-
+**Item #01**
 
 **Nome do caso de uso:** Acesso do Usuário Comum
 
@@ -84,7 +82,6 @@ A figura a seguir apresenta o diagrama de casos de uso:
 3. O usuário entra seu *username*  e sua senha.
 4. O sistema verifica que o *username* e a senha correspondem às informações de um de seus usuários registrados.
 5. O sistema inicia uma sessão.
-
 
 **Fluxos alternativos:**
 
