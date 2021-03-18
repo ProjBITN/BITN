@@ -54,6 +54,8 @@ b) É desejável que o tempo de carga para uma página não seja superior a 5 se
 
 c) A disponibilidade da aplicação deverá atender o padrão 99.99%, em regime 24x7.
 
+d) Após o sistema ter pelo menos 10 membros cadastrados e cada membro entrar pelo menos 10 avaliações, o sistema passará a apresentar para cada membro recomendações de filmes, séries e livros que podem ser de seu interesse.
+
 
 
 # 7. COTS (Commercial Off-The-Shelf)
