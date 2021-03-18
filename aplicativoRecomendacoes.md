@@ -42,7 +42,7 @@ Este documento descreve os requisitos não-funcionais, modela os requisitos func
 
 # 5. Objetivos funcionais
 
-a) O sistema deverá permitir que qualquer pessoa se cadastre e faça recomendações de Filmes, Séries e Livros.
+a) O sistema deverá permitir que qualquer pessoa se cadastre e faça recomendações de Filmes, Séries e Livros, bem como avalie conteúdo de outro usuários.
 
 
 
