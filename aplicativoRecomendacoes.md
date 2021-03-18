@@ -179,10 +179,9 @@ Passo 5:
 - Série: Título do Post, Título da Série, Nome do Diretor, Elenco Principal, Pais, Ano, Temporada, Foto, Nota, Resenha).
 6. Salva e encaminha para avaliação do administrador do sistema.
 
-
 **Fluxos alternativos:**
-Passo 5:
-* Caso o usuário não preencha os campos obrigatórios, o sistema indicará com realce e não permitirá que o usuário realize a avaliação.
+Passo 4:
+* Caso o usuário não preencha os campos obrigatórios, o sistema indicará com realce e não permitirá que o usuário envie o conteúdo.
 
 
 # 9. Wireframes
