@@ -198,20 +198,17 @@ Passo 4:
 * Vizualizar todas as publicações realizadas.
 
 **Fluxo principal:** 
-1. O usuário realiza o login;
-2. Acessa a operação Compartilhe;
-3. Seleciona o tipo de conteúdo (filme, série ou livro);
-4. Insere as informações necessárias para o cadastro:
-- Livro: Título do Post, Titulo do Livro, Nome do Autor, Nome da Editora, Pais de Origem, Ano de Lançamento do Livro, Foto, Nota, Resenha);
-- Filme: Título do Post, Título do Filme, Nome do Diretor, Elenco Principal, Pais, Ano, Foto, Nota, Resenhra;
-- Série: Título do Post, Título da Série, Nome do Diretor, Elenco Principal, Pais, Ano, Temporada, Foto, Nota, Resenha).
-6. Salva e encaminha para avaliação do administrador do sistema.
+1. O usuário realiza o login.
+2. Acessa a opção Perfil no menu de opções do usuário;
+3. O usuário visualiza em sua página pessoal:
+- Meus Artigos;
+- Meus Amigos;
+- Amigos em Comum;
+- Minhas Avaliações.
 
 **Fluxos alternativos:**
-Passo 4:
-* Caso o usuário não preencha os campos obrigatórios, o sistema indicará com realce e não permitirá que o usuário envie o conteúdo.
-
-
+Passo 3:
+* Caso o usuário não tenha realizado nenhuma avalição, o sistema exibirá a mensagem "Nenhum Comentário Disponível".
 
 # 9. Wireframes
 
