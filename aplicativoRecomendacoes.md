@@ -158,6 +158,31 @@ Passo 5:
 * Caso o usuário não preencha os campos obrigatórios, o sistema indicará com realce e não permitirá que o usuário realize a avaliação.
 
 
+## 8.5. Cadastrar Conteúdo
+**Nome do caso de uso:** Cadastrar Conteúdo (filmes, séries e livros). 
+
+**Resumo:** Após acessar o sistema, o usuário pode cadastrar um novo filme, série ou livro.
+
+**Pré-condições:**
+* Ser registrado.
+
+**Pós-condições:**
+* Conteúdo enviado para avaliação do administrador do sistema.
+
+**Fluxo principal:** 
+1. O usuário realiza o login.
+2. Acessa a operação Compartilhe;
+3. Seleciona o tipo de conteúdo (filme, série ou livro);
+4. Insere as informações necessárias para o cadastro:
+- Livro: Título do Post, Titulo do Livro, Nome do Autor, Nome da Editora, Pais de Origem, Ano de Lançamento do Livro, Foto, Nota, Resenha);
+- Filme: Título do Post, Título do Filme, Nome do Diretor, Elenco Principal, Pais, Ano, Foto, Nota, Resenhra;
+- Série: Título do Post, Título da Série, Nome do Diretor, Elenco Principal, Pais, Ano, Temporada, Foto, Nota, Resenha).
+6. Salva e encaminha para avaliação do administrador do sistema.
+
+
+**Fluxos alternativos:**
+Passo 5:
+* Caso o usuário não preencha os campos obrigatórios, o sistema indicará com realce e não permitirá que o usuário realize a avaliação.
 
 
 # 9. Wireframes
