@@ -211,7 +211,7 @@ Passo 3:
 * Caso o usuário não tenha realizado nenhuma avalição, o sistema exibirá a mensagem "Nenhum Comentário Disponível".
 
 
-## 8.6. Pesquisar Usuário
+## 8.7. Pesquisar Usuário
 **Nome do caso de uso:** Pesquisar Usário 
 
 **Resumo:** Descrição:	Os membros logados poderão pesquisar por outros membros pelo nome e acessar as suas páginas pessoais.
