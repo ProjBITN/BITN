@@ -259,6 +259,29 @@ Passo 3:
 * Caso o sitema não encontre o usuário que está sendo procurado, exibirá a mensagem "Usuário não encontrado".
 
 
+## 8.9. Curtir Publicação
+**Nome do caso de uso:** Curtir Publicação de Outro Usuário.
+
+**Resumo:** Descrição:	Um membro poderá das um "joinha" nas avaliações de outro membro. Em cada avaliação aparecerá o número de "joinhas" que ela já recebeu. O membro que deu o “joinha” para a avaliação poderá retirá-lo posteriormente se assim desejar.
+
+**Pré-condições:**
+* Ser registrado.
+
+**Pós-condições:**
+* Conteúdo “curtido”.
+
+**Fluxo principal:** 
+1. O usuário realiza o login.
+2. A página principal é exibida.
+3. São exibidos conteúdos publicados por membros.
+4. O usuário vizualiza uma postagem de seu interesse.
+5. E curte a publicação clicando no "joinha".
+
+**Fluxos alternativos:**
+Passo 3:
+* O usuário curtiu a publicação por engano e pode corrigir o erro clicando no “botão de curtir” novamente..
+
+
 
 # 9. Wireframes
 
