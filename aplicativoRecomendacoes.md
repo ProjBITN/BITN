@@ -186,7 +186,7 @@ Passo 4:
 * Caso o usuário não preencha os campos obrigatórios, o sistema indicará com realce e não permitirá que o usuário envie o conteúdo.
 
 
-## 8.5. Acessar Avaliações Realizadas
+## 8.6. Acessar Avaliações Realizadas
 **Nome do caso de uso:** Acesso as avaliações 
 
 **Resumo:** Cada membro terá uma página pessoal que listará todas as avaliações que ele já realizou.
@@ -209,6 +209,8 @@ Passo 4:
 **Fluxos alternativos:**
 Passo 3:
 * Caso o usuário não tenha realizado nenhuma avalição, o sistema exibirá a mensagem "Nenhum Comentário Disponível".
+
+
 
 # 9. Wireframes
 
