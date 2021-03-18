@@ -291,7 +291,7 @@ Passo 3:
 * Ser registrado.
 
 **Pós-condições:**
-* Conteúdo “curtido”.
+* Acesso a lista de amigos em comum.
 
 **Fluxo principal:** 
 1. O usuário realiza o login.
