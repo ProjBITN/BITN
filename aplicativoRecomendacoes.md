@@ -25,6 +25,7 @@ Este é um documento de especificação de requisitos para um Aplicativo para Re
 Este documento descreve os requisitos não-funcionais, modela os requisitos funcionais com casos de uso e modela os conceitos do domínio do problema.
 
 
+
 # 2. Informações sobre a empresa 
 
 
@@ -44,6 +45,7 @@ Este documento descreve os requisitos não-funcionais, modela os requisitos func
 a) O sistema deverá permitir que qualquer pessoa se cadastre e faça recomendações de Filmes, Séries e Livros.
 
 
+
 # 6. Objetivos não-funcionais
 
 a) O sistema deverá utilizar um algoritmo colaborativo para oferecer as recomendações a um determinado membro. 
@@ -51,6 +53,7 @@ a) O sistema deverá utilizar um algoritmo colaborativo para oferecer as recomen
 b) É desejável que o tempo de carga para uma página não seja superior a 5 segundos.
 
 c) A disponibilidade da aplicação deverá atender o padrão 99.99%, em regime 24x7.
+
 
 
 # 7. COTS (Commercial Off-The-Shelf)
