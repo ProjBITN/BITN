@@ -75,18 +75,18 @@ a) O sistema deve permitir que qualquer pessoa, dependendo do seu nível de aces
 			- Resumo / gráfico de numero de usuários por estado.
 
 b) É possível realizar buscar por:
-			- Filmes;
-			- Series;
-			- Livros;
-			- Usuários.
+       - Filmes;
+Series;
+Livros;
+Usuários.
 
 c) É possível curtir e/ou vizualizar:
       - Filmes;
-			- Series;
-			- Livros;
-			- Perfis;
-			- Comentários;
-		  - Exibir totalizadores de curtidas.
+      - Series;
+      - Livros;
+      - Perfis;
+      - Comentários;
+      - Exibir totalizadores de curtidas.
 
 d)Vitrine: 
       - O sistema deve permitir que o usuário visualize Filmes, Séries e Livros (Objeto);
