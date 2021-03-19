@@ -37,7 +37,7 @@ Este documento descreve os requisitos não-funcionais, modela os requisitos func
 
 # 4. Interessados
 
-
+Esse aplicativo tem como público-alvo pessoas que tem interesse em publicar coonteúdo e discutir sobre livros, filmes e séries.
 
 
 # 5. Objetivos funcionais
