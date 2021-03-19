@@ -14,6 +14,16 @@ author: "Grupo BNTI"
 - [6. Objetivos não-funcionais](#6-objetivos-não-funcionais)
 - [7. COTS (Commercial Off-The-Shelf)](#7-cots-commercial-off-the-shelf)
 - [8. Casos de uso](#8-casos-de-uso)
+  - 8.1. Realizar Login (#81-realizar-login)
+  - 8.2. Registrar Usuário
+  - 8.3. Atualizar Perfil
+  - 8.4. Avaliar Conteúdo
+  - 8.5. Cadastrar Conteúdo
+  - 8.6. Acessar Avaliações Realizadas
+  - 8.7. Pesquisar Usuário
+  - 8.8. Solicitar Amizade
+  - 8.9. Curtir Publicação8.10. Mostrar Amigos em Comum
+  - 8.11. Mostrar Relatório  
 - [9. Wireframes](#9-wireframes)
 - [10. Diagrama de classes de domínio](#10-diagrama-de-classes-de-domínio)
 
