@@ -74,11 +74,11 @@ a) O sistema deve permitir que qualquer pessoa, dependendo do seu nível de aces
 	- Resumo dos 10 mais conectados (Contador de acesso);
 	- Resumo / gráfico de numero de usuários por estado.
 
-b) É possível realizar buscar por:
--Filmes;
--Series;
--Livros;
--Usuários.
+b) É possível realizar buscar por:C
+- Filmes;
+- Series;
+- Livros;
+- Usuários.
 
 c) É possível curtir e/ou vizualizar:
       - Filmes;
