@@ -12,21 +12,20 @@ author: "Grupo BNTI"
 - [4. Interessados](#4-interessados)
 - [5. Objetivos funcionais](#5-objetivos-funcionais)
 - [6. Objetivos não-funcionais](#6-objetivos-não-funcionais)
-- [7. COTS (Commercial Off-The-Shelf)](#7-cots-commercial-off-the-shelf)
-- [8. Casos de uso](#8-casos-de-uso)
-  - [8.1. Realizar Login](#81-realizar-login)  
-  - [8.2. Registrar Usuário](#82-registrar-usuário)  
-  - [8.3. Atualizar Perfil](#83-atualizar-perfil)  
-  - [8.4. Avaliar Conteúdo](#84-avaliar-conteúdo)  
-  - [8.5. Cadastrar Conteúdo](#85-cadastrar-conteúdo)  
-  - [8.6. Acessar Avaliações Realizadas](#86-acessar-avaliações-realizadas)  
-  - [8.7. Pesquisar Usuário](#87-pesquisar-usuário)  
-  - [8.8. Solicitar Amizade](#88-solicitar-amizade)  
-  - [8.9. Curtir Publicação](#89-curtir-publicação)  
-  - [8.10. Mostrar Amigos em Comum](#810-mostrar-amigos-em-comum)  
-  - [8.11. Mostrar Relatório](#811-mostrar-relatório)  
-- [9. Wireframes](#9-wireframes)
-- [10. Diagrama de classes de domínio](#10-diagrama-de-classes-de-domínio)
+- [7. Casos de uso](#8-casos-de-uso)
+  - [7.1. Realizar Login](#71-realizar-login)  
+  - [7.2. Registrar Usuário](#72-registrar-usuário)  
+  - [7.3. Atualizar Perfil](#73-atualizar-perfil)  
+  - [7.4. Avaliar Conteúdo](#74-avaliar-conteúdo)  
+  - [7.5. Cadastrar Conteúdo](#75-cadastrar-conteúdo)  
+  - [7.6. Acessar Avaliações Realizadas](#76-acessar-avaliações-realizadas)  
+  - [7.7. Pesquisar Usuário](#77-pesquisar-usuário)  
+  - [7.8. Solicitar Amizade](#78-solicitar-amizade)  
+  - [7.9. Curtir Publicação](#79-curtir-publicação)  
+  - [7.10. Mostrar Amigos em Comum](#710-mostrar-amigos-em-comum)  
+  - [7.11. Mostrar Relatório](#711-mostrar-relatório)  
+- [8. Wireframes](#8-wireframes)
+- [9. Diagrama de classes de domínio](#9-diagrama-de-classes-de-domínio)
 
 
 # 1. Introdução
@@ -71,14 +70,9 @@ e) Sempre que um membro acessar o sistema, ele deverá receber a sugestão de 3 
 
 
 
-# 7. COTS (Commercial Off-The-Shelf)
+# 7. Casos de uso
 
-
-
-
-# 8. Casos de uso
-
-## 8.1. Realizar Login
+## 7.1. Realizar Login
 
 **Nome do caso de uso:** Acesso do Usuário 
 
@@ -102,7 +96,7 @@ Passo 4:
 * Se o *username* ou a *senha* são inválidos (podendo ser ambos inválidos), o sistema retorna a mensagem "Login ou senha Inválida" e o caso de uso retorna para o passo 2.
 
 
-## 8.2. Registrar Usuário
+## 7.2. Registrar Usuário
 
 **Nome do caso de uso:** Registro do Usuário 
 
@@ -126,7 +120,7 @@ Passo 4:
 * Se os dados já constarem no sistema, o usuário é recebe a mensagem "Usuário já Cadastrado"
 
 
-## 8.3. Atualizar Perfil
+## 7.3. Atualizar Perfil
 **Nome do caso de uso:** Atualização de Dados do Usuário
 
 **Resumo:** Cada membro poderá, a qualquer momento, atualizar os dados do seu perfil.
@@ -149,7 +143,7 @@ Passo 4:
 * Caso o usuário não preencha os campos obrigatórios, o sistema indicará com realce e não permitirá que o usuário atualize o cadastro.
 
 
-## 8.4. Avaliar Conteúdo
+## 7.4. Avaliar Conteúdo
 **Nome do caso de uso:** Avaliação de Conteúdo
 
 **Resumo:** Após acessar o sistema, cada membro poderá avaliar os filmes, séries e livros que desejar.
@@ -173,7 +167,7 @@ Passo 5:
 * Caso o usuário não preencha os campos obrigatórios, o sistema indicará com realce e não permitirá que o usuário realize a avaliação.
 
 
-## 8.5. Cadastrar Conteúdo
+## 7.5. Cadastrar Conteúdo
 **Nome do caso de uso:** Cadastrar Conteúdo (filmes, séries e livros). 
 
 **Resumo:** Após acessar o sistema, o usuário pode cadastrar um novo filme, série ou livro.
@@ -199,7 +193,7 @@ Passo 4:
 * Caso o usuário não preencha os campos obrigatórios, o sistema indicará com realce e não permitirá que o usuário envie o conteúdo.
 
 
-## 8.6. Acessar Avaliações Realizadas
+## 7.6. Acessar Avaliações Realizadas
 **Nome do caso de uso:** Acesso as Avaliações. 
 
 **Resumo:** Cada membro terá uma página pessoal que listará todas as avaliações que ele já realizou.
@@ -224,7 +218,7 @@ Passo 3:
 * Caso o usuário não tenha realizado nenhuma avalição, o sistema exibirá a mensagem "Nenhum Comentário Disponível".
 
 
-## 8.7. Pesquisar Usuário
+## 7.7. Pesquisar Usuário
 **Nome do caso de uso:** Pesquisar Usário 
 
 **Resumo:** Descrição:	Os membros logados poderão pesquisar por outros membros pelo nome e acessar as suas páginas pessoais.
@@ -247,7 +241,7 @@ Passo 3:
 * Caso o sitema não encontre o usuário que está sendo procurado, exibirá a mensagem "Usuário não encontrado".
 
 
-## 8.8. Solicitar Amizade
+## 7.8. Solicitar Amizade
 **Nome do caso de uso:** Solicitação de Amizade
 
 **Resumo:** Descrição:Cada membro poderá propor relacionamento de amizade a outro membro. O relacionamento de amizade será estabelecido quando o outro membro aceitar a proposta.
@@ -272,7 +266,7 @@ Passo 3:
 * Caso o sitema não encontre o usuário que está sendo procurado, exibirá a mensagem "Usuário não encontrado".
 
 
-## 8.9. Curtir Publicação
+## 7.9. Curtir Publicação
 **Nome do caso de uso:** Curtir Publicação de Outro Usuário.
 
 **Resumo:** Descrição:	Um membro poderá das um "joinha" nas avaliações de outro membro. Em cada avaliação aparecerá o número de "joinhas" que ela já recebeu. O membro que deu o “joinha” para a avaliação poderá retirá-lo posteriormente se assim desejar.
@@ -295,7 +289,7 @@ Passo 3:
 * O usuário curtiu a publicação por engano e pode corrigir o erro clicando no “botão de curtir” novamente.
 
 
-## 8.10. Mostrar Amigos em Comum
+## 7.10. Mostrar Amigos em Comum
 **Nome do caso de uso:** Mostra Amigos em Comum Entre os Membros.
 
 **Resumo:** Descrição:	Quando um membro acessar a página de outro, o sistema deverá mostrar os amigos que eles têm em comum.
@@ -320,7 +314,7 @@ Passo 3:
 * O sistema não identifica amizades em comum.
 
 
-## 8.11. Mostrar Relatório
+## 7.11. Mostrar Relatório
 **Nome do caso de uso:** Mostra um relatório.
 
 **Resumo:** Descrição:	O sistema apresenta um relatório ao administrador. 
@@ -348,12 +342,12 @@ Passo 2:
 
 
 
-# 9. Wireframes
+# 8. Wireframes
 
 
 
 
-# 10. Diagrama de classes de domínio
+# 9. Diagrama de classes de domínio
 
 
  
