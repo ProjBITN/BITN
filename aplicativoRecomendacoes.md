@@ -24,6 +24,7 @@ author: "Grupo BNTI"
   - [7.9. Curtir Publicação](#79-curtir-publicação)  
   - [7.10. Mostrar Amigos em Comum](#710-mostrar-amigos-em-comum)  
   - [7.11. Mostrar Relatório](#711-mostrar-relatório)  
+  - [7.12. Indicar Conteúdo](#712-indicar-conteúdo)
 - [8. Wireframes](#8-wireframes)
 - [9. Diagrama de classes de domínio](#9-diagrama-de-classes-de-domínio)
 
@@ -111,8 +112,6 @@ a) O sistema deverá utilizar um algoritmo colaborativo para oferecer as recomen
 b) É desejável que o tempo de carga para uma página não seja superior a 5 segundos.
 
 c) A disponibilidade da aplicação deverá atender o padrão 99.99%, em regime 24x7.
-
-d) Após o sistema ter pelo menos 10 membros cadastrados e cada membro entrar pelo menos 10 avaliações, o sistema passará a apresentar para cada membro recomendações de filmes, séries e livros que podem ser de seu interesse.
 
 e) Sempre que um membro acessar o sistema, ele deverá receber a sugestão de 3 membros que poderiam ser seus amigos. O critério será sugerir membros que têm preferências semelhantes, com base nas avaliações já realizadas.
 
@@ -387,6 +386,27 @@ Passo 3:
 **Fluxos alternativos:**
 Passo 2:
 * O sistema não identifica o usuário como administrador, portanto, não lhe mostra a opção Performance.
+
+
+## 7.12. Indicar Conteúdo
+**Nome do caso de uso:** Indicação de Conteúdo.
+
+**Resumo:** Descrição:	Após o sistema ter pelo menos 10 membros cadastrados e cada membro entrar em pelo menos 10 avaliações, o sistema passará a apresentar para cada membro recomendações de filmes, séries e livros que podem ser de seu interesse.
+
+**Pré-condições:**
+* Ter pelo menos 10 membros cadastrados e cada membro entrar em pelo menos 10 avaliações.
+
+**Pós-condições:**
+* O sistema indica o conteúdo.
+
+**Fluxo principal:** 
+1. O sistema identifica que há mais de 10 usuários cadastrados;
+2. Em seguida identifica que cada usuário fez 10 ou mais avaliações;
+3. O sistema passa a indicar o conteúdo com base no histórico de avaliações.
+
+**Fluxos alternativos:**
+Passo 1:
+* Não há 10 membros cadastrados e/ou não há 10 avaliações.
 
 
 
