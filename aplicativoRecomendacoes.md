@@ -55,30 +55,30 @@ Esse aplicativo tem como público-alvo pessoas que tem interesse em publicar coo
 a) O sistema deve permitir que qualquer pessoa, dependendo do seu nível de acesso, possa usufruir das seguintes funcionalidades: 
 - Esqueci minha senha;
 - Tipos de Usuários:
-- Padrão;
-- Administrador.
+	- Padrão;
+	- Administrador.
 - Dashboard (Pagina de Perfil Padrão):
-- Avaliações;
-- Objetos Enviados;
-- Objetos assistidos / lidos;
-- Meus amigos;
-- Botão para seguir / desmarcar;
-- É preciso confirmar o aceite;
-- Perfis seguidos (Amigos);
-- Compartilhar comentários;
-- Ao efetuar logon salvar o último acesso;
-- Acrescer contador de acesso.
+	- Avaliações;
+	- Objetos Enviados;
+	- Objetos assistidos / lidos;
+	- Meus amigos;
+	- Botão para seguir / desmarcar;
+	- É preciso confirmar o aceite;
+	- Perfis seguidos (Amigos);
+	- Compartilhar comentários;
+	- Ao efetuar logon salvar o último acesso;
+	- Acrescer contador de acesso.
 - Dashboard (Pagina de Perfil Administrador):
-- Cadastrar Usuários;
-- Cadastrar / Autorizar Objetos;
-- Resumo dos 10 mais conectados (Contador de acesso);
-- Resumo / gráfico de numero de usuários por estado.
+	- Cadastrar Usuários;
+	- Cadastrar / Autorizar Objetos;
+	- Resumo dos 10 mais conectados (Contador de acesso);
+	- Resumo / gráfico de numero de usuários por estado.
 
 b) É possível realizar buscar por:
-       - Filmes;
-Series;
-Livros;
-Usuários.
+-Filmes;
+-Series;
+-Livros;
+-Usuários.
 
 c) É possível curtir e/ou vizualizar:
       - Filmes;
