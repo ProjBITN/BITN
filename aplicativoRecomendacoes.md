@@ -14,9 +14,7 @@ author: "Grupo BNTI"
 - [6. Objetivos não-funcionais](#6-objetivos-não-funcionais)
 - [7. COTS (Commercial Off-The-Shelf)](#7-cots-commercial-off-the-shelf)
 - [8. Casos de uso](#8-casos-de-uso)
-- [8. Casos de uso](#8-casos-de-uso)
-  - [8.1. Realizar Login](#81-acessar-funções-restritas)
-  
+  - [8.1. Realizar Login](#81-acessar-funções-restritas)  
   - [8.2. Registrar Usuário]
   - [8.3. Atualizar Perfil]
   - [8.4. Avaliar Conteúdo]
