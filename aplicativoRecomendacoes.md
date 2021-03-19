@@ -52,7 +52,55 @@ Esse aplicativo tem como público-alvo pessoas que tem interesse em publicar coo
 
 # 5. Objetivos funcionais
 
-a) O sistema deverá permitir que qualquer pessoa se cadastre e faça recomendações de Filmes, Séries e Livros, bem como avalie conteúdo de outro usuários.
+a) O sistema deve permitir que qualquer pessoa, dependendo do seu nível de acesso, possa usufruir das seguintes funcionalidades: 
+- Esqueci minha senha;
+- Tipos de Usuários:
+      - Padrão;
+      - Administrador.
+- Dashboard (Pagina de Perfil Padrão):
+			- Avaliações;
+			- Objetos Enviados;
+			- Objetos assistidos / lidos;
+			- Meus amigos;
+			- Botão para seguir / desmarcar;
+			- É preciso confirmar o aceite;
+			- Perfis seguidos (Amigos);
+			- Compartilhar comentários;
+			- Ao efetuar logon salvar o último acesso;
+			- Acrescer contador de acesso.
+- Dashboard (Pagina de Perfil Administrador):
+			- Cadastrar Usuários;
+			- Cadastrar / Autorizar Objetos;
+			- Resumo dos 10 mais conectados (Contador de acesso);
+			- Resumo / gráfico de numero de usuários por estado.
+
+b) É possível realizar buscar por:
+			- Filmes;
+			- Series;
+			- Livros;
+			- Usuários.
+
+c) É possível curtir e/ou vizualizar:
+      - Filmes;
+			- Series;
+			- Livros;
+			- Perfis;
+			- Comentários;
+		  - Exibir totalizadores de curtidas.
+
+d)Vitrine: 
+      - O sistema deve permitir que o usuário visualize Filmes, Séries e Livros (Objeto);
+		  - Filtro por objeto (Filmes, Séries e Livros);
+		  - Busca por nome;
+		  - Atribui nota;
+		  - Comentários;
+		  - Sugerir Conteúdo (o usuario pode sugerir, mas liberação depende do administrador, isto é, se não existe cadastra; se existe vincula)
+		  - Tipos de Objeto:
+			    - Filmes (título, diretor, elenco principal, país, ano.);
+			    - Séries (título, diretor, elenco principal, país, ano, número de temporadas);
+			    - Livros (título, autor(es), editora, país, ano de lançamento).
+		  - Sistema recomenda sugestões (IA - Colaborativo).
+		
 
 
 
