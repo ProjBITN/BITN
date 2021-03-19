@@ -15,7 +15,7 @@ author: "Grupo BNTI"
 - [7. COTS (Commercial Off-The-Shelf)](#7-cots-commercial-off-the-shelf)
 - [8. Casos de uso](#8-casos-de-uso)
   - [8.1. Realizar Login](#81-realizar-login)  
-  - [8.2. Registrar Usuário](#82-rgistrar-usuário)  
+  - [8.2. Registrar Usuário](#82-registrar-usuário)  
   - [8.3. Atualizar Perfil](#83-atualizar-perfil)  
   - [8.4. Avaliar Conteúdo](#84-avaliar-conteúdo)  
   - [8.5. Cadastrar Conteúdo](#85-cadastrar-conteúdo)  
