@@ -315,7 +315,7 @@ Passo 3:
 **Resumo:** Descrição:	O sistema apresenta um relatório ao administrador. 
 
 **Pré-condições:**
-* Ser registrado.
+* Ser registrado como administrador.
 
 **Pós-condições:**
 * Acesso a um relatório de performance .
