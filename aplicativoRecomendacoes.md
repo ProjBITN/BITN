@@ -54,7 +54,7 @@ Esse aplicativo tem como público-alvo pessoas que tem interesse em publicar coo
 
 # 5. Objetivos funcionais
 
-a) O sistema deve permitir que qualquer pessoa, dependendo do seu nível de acesso, possa usufruir das seguintes funcionalidades: 
+O sistema deve permitir que qualquer pessoa, dependendo do seu nível de acesso, possa usufruir das seguintes funcionalidades: 
 - Esqueci minha senha;
 - Tipos de Usuários:
 	- Padrão;
