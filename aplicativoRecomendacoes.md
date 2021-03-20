@@ -121,7 +121,10 @@ c) A disponibilidade da aplicação deverá atender o padrão 99.99%, em regime 
 
 # 7. Casos de uso
 
+A figura a seguir apresenta o diagrama de casos de uso:
+
 ## 7.1. Realizar Login
+
 
 **Nome do caso de uso:** Acesso do Usuário 
 
