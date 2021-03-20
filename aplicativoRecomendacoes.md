@@ -443,6 +443,10 @@ Passo 2:
 
 ![Tela de Cadastro](https://github.com/ProjBITN/BITN/blob/main/Wireframes/tela-de-cadastro.PNG)
 
+## 8.1. Home Page
+
+![Tela Inicial](https://github.com/ProjBITN/BITN/blob/main/Wireframes/home-page.PNG)
+
 
 # 9. Diagrama de classes de domínio
 
