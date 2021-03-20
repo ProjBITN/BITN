@@ -426,7 +426,7 @@ Passo 1:
 3. O usuário seleciona ou não outro membro.
 
 **Fluxos alternativos:**
-Passo 1:
+Passo 2:
 * O sistema não identificou membros com preferências semelhantes, pois não há avaliações feitas pelo usuário para servir como parâmetro.
 
 
