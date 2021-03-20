@@ -113,7 +113,6 @@ b) É desejável que o tempo de carga para uma página não seja superior a 5 se
 
 c) A disponibilidade da aplicação deverá atender o padrão 99.99%, em regime 24x7.
 
-e) Sempre que um membro acessar o sistema, ele deverá receber a sugestão de 3 membros que poderiam ser seus amigos. O critério será sugerir membros que têm preferências semelhantes, com base nas avaliações já realizadas.
 
 
 
@@ -407,6 +406,27 @@ Passo 2:
 **Fluxos alternativos:**
 Passo 1:
 * Não há 10 membros cadastrados e/ou não há 10 avaliações.
+
+
+## 7.13. Sugerir Amizade
+**Nome do caso de uso:** Sugestão de amizade
+
+**Resumo:** Descrição:	Sempre que um membro acessar o sistema, ele deverá receber a sugestão de 3 membros que poderiam ser seus amigos. O critério será sugerir membros que têm preferências semelhantes, com base nas avaliações já realizadas.
+
+**Pré-condições:**
+* Membros com preferências semelhantes, com base nas avaliações já realizada.
+
+**Pós-condições:**
+* Vincular membros.
+
+**Fluxo principal:** 
+1. Usuário realiza o login;
+2. Na página principal aparecem 3 sugestões de amizade.
+
+**Fluxos alternativos:**
+Passo 1:
+* O sistema não identificou membros com preferências semelhantes, pois não há avaliações feitas pelo usuário para servir como parâmetro.
+
 
 
 
