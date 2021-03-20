@@ -93,15 +93,15 @@ c) É possível curtir e/ou vizualizar:
 d)Vitrine: 
 - O sistema deve permitir que o usuário visualize Filmes, Séries e Livros (Objeto);
 - Filtro por objeto (Filmes, Séries e Livros);
-- Busca por nome;
-- Atribui nota;
+- Buscar por nome;
+- Atribuir nota;
 - Comentários;
 - Sugerir Conteúdo (o usuario pode sugerir, mas liberação depende do administrador, isto é, se não existe cadastra; se existe vincula);
 - Tipos de Objeto:
 	- Filmes (título, diretor, elenco principal, país, ano.);
 	- Séries (título, diretor, elenco principal, país, ano, número de temporadas);
 	- Livros (título, autor(es), editora, país, ano de lançamento).
-- Sistema recomenda sugestões (IA - Colaborativo).
+
 		
 
 
