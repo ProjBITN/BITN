@@ -27,7 +27,7 @@ author: "Grupo BNTI"
   - [7.12. Indicar Conteúdo](#712-indicar-conteúdo)
   - [7.13. Sugerir Amizade](#713-sugerir-amizade)
 - [8. Wireframes](#8-wireframes)
-  - [8.1. Tela de Login / Cadastro](#81-tela-de-login-/-cadastro)  
+  - [8.1. Tela de Login / Cadastro](#81-tela-de-login-cadastro)  
   - [8.2. Home Page](#82-home-page)
 - [9. Diagrama de classes de domínio](#9-diagrama-de-classes-de-domínio)
 
