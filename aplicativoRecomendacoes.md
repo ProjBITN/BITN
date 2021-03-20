@@ -443,7 +443,7 @@ Passo 2:
 
 ![Tela de Cadastro](https://github.com/ProjBITN/BITN/blob/main/Wireframes/tela-de-cadastro.PNG)
 
-## 8.1. Home Page
+## 8.2. Home Page
 
 ![Tela Inicial](https://github.com/ProjBITN/BITN/blob/main/Wireframes/home-page.PNG)
 
