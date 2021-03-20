@@ -30,6 +30,7 @@ author: "Grupo BNTI"
   - [8.1. Tela de Login ou Cadastro](#81-tela-de-login-ou-cadastro)  
   - [8.2. Home Page](#82-home-page)
   - [8.3. Deixe Sua Dica](#83-deixe-sua-dica)
+  - [8.4. Atualizar Perfil](#84-atualizar-perfil)
 - [9. Diagrama de classes de domínio](#9-diagrama-de-classes-de-domínio)
 
 
@@ -453,6 +454,10 @@ Passo 2:
 ## 8.3. Deixe Sua Dica
 
 ![Tela Deixe Sua Dica](https://github.com/ProjBITN/BITN/blob/main/Wireframes/deixe-sua-dica.PNG)
+
+## 8.4. Atualizar Perfil
+
+![Atualizar Perfil](https://github.com/ProjBITN/BITN/blob/main/Wireframes/atualizar-perfil.PNG)
 
 
 # 9. Diagrama de classes de domínio
