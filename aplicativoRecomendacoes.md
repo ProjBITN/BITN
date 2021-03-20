@@ -12,7 +12,7 @@ author: "Grupo BITN"
 - [4. Interessados](#4-interessados)
 - [5. Objetivos funcionais](#5-objetivos-funcionais)
 - [6. Objetivos não-funcionais](#6-objetivos-não-funcionais)
-- [7. Casos de uso](#8-casos-de-uso)
+- [7. Casos de uso](#7-casos-de-uso)
   - [7.1. Realizar Login](#71-realizar-login)  
   - [7.2. Registrar Usuário](#72-registrar-usuário)  
   - [7.3. Atualizar Perfil](#73-atualizar-perfil)  
