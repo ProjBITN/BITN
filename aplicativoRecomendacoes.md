@@ -441,7 +441,7 @@ Passo 2:
 
 ## 8.1. Tela de Login / Cadastro
 
-![tela-de-cadastro](Wireframes/tela-de-cadastro.png)
+![Tela de Cadastro](https://github.com/ProjBITN/BITN/blob/main/Wireframes/tela-de-cadastro.PNG)
 
 
 # 9. Diagrama de classes de domínio
