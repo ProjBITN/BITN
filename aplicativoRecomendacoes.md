@@ -449,6 +449,10 @@ Passo 2:
 
 ![Tela Inicial](https://github.com/ProjBITN/BITN/blob/main/Wireframes/home-page.PNG)
 
+## 8.2. Deixe Sua Dica
+
+![Tela Deixe Sua Dica](https://github.com/ProjBITN/BITN/blob/main/Wireframes/deixe-sua-dica.PNG)
+
 
 # 9. Diagrama de classes de domínio
 
