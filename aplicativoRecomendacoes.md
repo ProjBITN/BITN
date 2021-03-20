@@ -439,7 +439,9 @@ Passo 2:
 
 # 8. Wireframes
 
+## 8.1. Tela de Cadastro
 
+![Tela Inicial (diagramas/tela-inicial.png)
 
 
 # 9. Diagrama de classes de domínio
