@@ -1,6 +1,6 @@
 ---
 title: "Aplicativo para Recomendação de Filmes, Séries e Livros."
-author: "Grupo BNTI"
+author: "Grupo BITN"
 ---
 
 
