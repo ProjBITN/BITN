@@ -65,7 +65,7 @@ a) O sistema deve permitir que qualquer pessoa, dependendo do seu nível de aces
 	- Objetos assistidos / lidos;
 	- Meus amigos;
 	- Botão para seguir / desmarcar;
-	- É preciso confirmar o aceite;
+	- É preciso confirmar a solicitação de amizade;
 	- Perfis seguidos (Amigos);
 	- Compartilhar comentários;
 	- Ao efetuar logon salvar o último acesso;
@@ -90,14 +90,14 @@ c) É possível curtir e/ou vizualizar:
 - Comentários;
 - Exibir totalizadores de curtidas.
 
-d)Vitrine: 
-- O sistema deve permitir que o usuário visualize Filmes, Séries e Livros (Objeto);
-- Filtro por objeto (Filmes, Séries e Livros);
+d) Na página principal, o usuário poderá: 
+- Vizualizar Filmes, Séries e Livros (Objeto);
+- Filtrar por objeto (Filmes, Séries e Livros);
 - Buscar por nome;
-- Atribuir nota;
-- Comentários;
-- Sugerir Conteúdo (o usuario pode sugerir, mas liberação depende do administrador, isto é, se não existe cadastra; se existe vincula);
-- Tipos de Objeto:
+- Atribir nota;
+- Realizar comentários;
+- Sugerir conteúdo (o usuario pode sugerir, mas liberação depende do administrador, isto é, se não existe cadastra; se existe vincula);
+- Tipos de objetos a disposição do usuário:
 	- Filmes (título, diretor, elenco principal, país, ano.);
 	- Séries (título, diretor, elenco principal, país, ano, número de temporadas);
 	- Livros (título, autor(es), editora, país, ano de lançamento).
