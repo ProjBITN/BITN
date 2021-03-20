@@ -59,6 +59,7 @@ a) O sistema deve permitir que qualquer pessoa, dependendo do seu nível de aces
 - Tipos de Usuários:
 	- Padrão;
 	- Administrador.
+	
 - Dashboard (Pagina de Perfil Padrão):
 	- Avaliações;
 	- Objetos Enviados;
@@ -70,37 +71,38 @@ a) O sistema deve permitir que qualquer pessoa, dependendo do seu nível de aces
 	- Compartilhar comentários;
 	- Ao efetuar logon salvar o último acesso;
 	- Acrescer contador de acesso.
+	
 - Dashboard (Pagina de Perfil Administrador):
 	- Cadastrar Usuários;
 	- Cadastrar / Autorizar Objetos;
 	- Resumo dos 10 mais conectados (Contador de acesso);
 	- Resumo / gráfico de numero de usuários por estado.
 
-b) É possível realizar buscar por:
-- Filmes;
-- Series;
-- Livros;
-- Usuários.
+- É possível realizar buscar por:
+	- Filmes;
+	- Series;
+	- Livros;
+	- Usuários.
 
-c) É possível curtir e/ou vizualizar:
-- Filmes;
-- Series;
-- Livros;
-- Perfis;
-- Comentários;
-- Exibir totalizadores de curtidas.
+- É possível curtir e/ou vizualizar:
+	- Filmes;
+	- Series;
+	- Livros;
+	- Perfis;
+	- Comentários;
+	- Exibir totalizadores de curtidas.
 
-d) Na página principal, o usuário poderá: 
-- Vizualizar Filmes, Séries e Livros (Objeto);
-- Filtrar por objeto (Filmes, Séries e Livros);
-- Buscar por nome;
-- Atribir nota;
-- Realizar comentários;
-- Sugerir conteúdo (o usuario pode sugerir, mas liberação depende do administrador, isto é, se não existe cadastra; se existe vincula);
-- Tipos de objetos a disposição do usuário:
-	- Filmes (título, diretor, elenco principal, país, ano.);
-	- Séries (título, diretor, elenco principal, país, ano, número de temporadas);
-	- Livros (título, autor(es), editora, país, ano de lançamento).
+- Na página principal, o usuário poderá: 
+	- Vizualizar Filmes, Séries e Livros (Objeto);
+	- Filtrar por objeto (Filmes, Séries e Livros);
+	- Buscar por nome;
+	- Atribir nota;
+	- Realizar comentários;
+	- Sugerir conteúdo (o usuario pode sugerir, mas liberação depende do administrador, isto é, se não existe cadastra; se existe vincula);
+	- Tipos de objetos a disposição do usuário:
+		- Filmes (título, diretor, elenco principal, país, ano.);
+		- Séries (título, diretor, elenco principal, país, ano, número de temporadas);
+		- Livros (título, autor(es), editora, país, ano de lançamento).
 
 		
 
