@@ -25,6 +25,7 @@ author: "Grupo BNTI"
   - [7.10. Mostrar Amigos em Comum](#710-mostrar-amigos-em-comum)  
   - [7.11. Mostrar Relatório](#711-mostrar-relatório)  
   - [7.12. Indicar Conteúdo](#712-indicar-conteúdo)
+  - [7.13. Sugerir Amizade](#713-sugerir-amizade)
 - [8. Wireframes](#8-wireframes)
 - [9. Diagrama de classes de domínio](#9-diagrama-de-classes-de-domínio)
 
@@ -399,8 +400,8 @@ Passo 2:
 * O sistema indica o conteúdo.
 
 **Fluxo principal:** 
-1. O sistema identifica que há mais de 10 usuários cadastrados;
-2. Em seguida identifica que cada usuário fez 10 ou mais avaliações;
+1. O sistema identifica que há mais de 10 usuários cadastrados.
+2. Em seguida identifica que cada usuário fez 10 ou mais avaliações.
 3. O sistema passa a indicar o conteúdo com base no histórico de avaliações.
 
 **Fluxos alternativos:**
@@ -420,8 +421,9 @@ Passo 1:
 * Vincular membros.
 
 **Fluxo principal:** 
-1. Usuário realiza o login;
+1. Usuário realiza o login.
 2. Na página principal aparecem 3 sugestões de amizade.
+3. O usuário seleciona ou não outro membro.
 
 **Fluxos alternativos:**
 Passo 1:
