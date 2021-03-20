@@ -29,6 +29,7 @@ author: "Grupo BNTI"
 - [8. Wireframes](#8-wireframes)
   - [8.1. Tela de Login ou Cadastro](#81-tela-de-login-ou-cadastro)  
   - [8.2. Home Page](#82-home-page)
+  - [8.3. Deixe Sua Dica](#83-deixe-sua-dica)
 - [9. Diagrama de classes de domínio](#9-diagrama-de-classes-de-domínio)
 
 
@@ -449,7 +450,7 @@ Passo 2:
 
 ![Tela Inicial](https://github.com/ProjBITN/BITN/blob/main/Wireframes/home-page.PNG)
 
-## 8.2. Deixe Sua Dica
+## 8.3. Deixe Sua Dica
 
 ![Tela Deixe Sua Dica](https://github.com/ProjBITN/BITN/blob/main/Wireframes/deixe-sua-dica.PNG)
 
