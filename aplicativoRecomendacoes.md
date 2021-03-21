@@ -26,7 +26,7 @@ author: "Grupo BITN"
   - [7.11. Vizualizar Relatório](#711-vizualizar-relatório)  
   - [7.12. Indicar Conteúdo](#712-indicar-conteúdo)
   - [7.13. Sugerir Amizade](#713-sugerir-amizade)
-  - [7.14. SAvaliar Conteúdo Cadastrado](#714-avaliar-conteúdo-cadastrado)
+  - [7.14. Avaliar Conteúdo Cadastrado](#714-avaliar-conteúdo-cadastrado)
 - [8. Wireframes](#8-wireframes)
   - [8.1. Tela de Login ou Cadastro](#81-tela-de-login-ou-cadastro)  
   - [8.2. Home Page](#82-home-page)
