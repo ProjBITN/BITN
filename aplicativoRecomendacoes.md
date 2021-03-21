@@ -26,6 +26,7 @@ author: "Grupo BITN"
   - [7.11. Vizualizar Relatório](#711-vizualizar-relatório)  
   - [7.12. Indicar Conteúdo](#712-indicar-conteúdo)
   - [7.13. Sugerir Amizade](#713-sugerir-amizade)
+  - [7.14. SAvaliar Conteúdo Cadastrado](#714-avaliar-conteúdo-cadastrado)
 - [8. Wireframes](#8-wireframes)
   - [8.1. Tela de Login ou Cadastro](#81-tela-de-login-ou-cadastro)  
   - [8.2. Home Page](#82-home-page)
@@ -438,6 +439,29 @@ Passo 1:
 Passo 2:
 * O sistema não identificou membros com preferências semelhantes, pois não há avaliações feitas pelo usuário para servir como parâmetro.
 
+
+## 7.14. Avaliar Conteúdo Cadastrado
+**Nome do caso de uso:** Avalia Conteúdo Cadastrado
+
+**Resumo:** O adminitrador valida o conteúdo cadastrado pelo usuário comum.
+
+**Pré-condições:**
+* Ser usuário administrador.
+
+**Pós-condições:**
+* Valiadar ou vincular o conteúdo.
+
+**Fluxo principal:** 
+1. Usuário realiza o login como administrador.
+2. Na página principal acessa a opção Validar Post.
+3. Na nova página seleciona o Post que pretende validar.
+4. Acessa o conteúdo para verificar se já há post semelhante cadastrado.
+5. Valida a publicação.
+
+**Fluxos alternativos:**
+Passo 4:
+* O sistema identifica que há um post cadastrado e o admintrador não permite a publicação; ou
+*  Após avaliar o conteúdo e perceber novas informações, vincula o conteúdo ao post já públicado.
 
 
 
