@@ -23,7 +23,7 @@ author: "Grupo BITN"
   - [7.8. Solicitar Amizade](#78-solicitar-amizade)  
   - [7.9. Curtir Publicação](#79-curtir-publicação)  
   - [7.10. Mostrar Amigos em Comum](#710-mostrar-amigos-em-comum)  
-  - [7.11. Mostrar Relatório](#711-mostrar-relatório)  
+  - [7.11. Vizualizar Relatório](#711-vizualizar-relatório)  
   - [7.12. Indicar Conteúdo](#712-indicar-conteúdo)
   - [7.13. Sugerir Amizade](#713-sugerir-amizade)
 - [8. Wireframes](#8-wireframes)
@@ -370,8 +370,8 @@ Passo 3:
 * O sistema não identifica amizades em comum.
 
 
-## 7.11. Mostrar Relatório
-**Nome do caso de uso:** Mostra um relatório.
+## 7.11. Vizualizar Relatório
+**Nome do caso de uso:** Vizualiza um relatório.
 
 **Resumo:** Descrição:	O sistema apresenta um relatório ao administrador. 
 
