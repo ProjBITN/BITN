@@ -43,13 +43,14 @@ Este documento descreve os requisitos não-funcionais, modela os requisitos func
 
 
 
-# 2. Informações sobre a empresa 
+# 2. Informações sobre a empresa  
 
+A empresa BITn desenolve sistemas voltados para a área do entretenimento. 
 
 
 # 3. Escopo do projeto
 
-
+O escopo deste projeto é um sistema web que permite que um usuário faça recomendações de filmes, Séries e livros.
 
 
 # 4. Interessados
@@ -243,7 +244,7 @@ Passo 5:
 3. Seleciona o tipo de conteúdo (filme, série ou livro).
 4. Insere as informações necessárias para o cadastro:
 - Livro: Título do Post, Titulo do Livro, Nome do Autor, Nome da Editora, Pais de Origem, Ano de Lançamento do Livro, Foto, Nota, Resenha;
-- Filme: Título do Post, Título do Filme, Nome do Diretor, Elenco Principal, Pais, Ano, Foto, Nota, Resenhra;
+- Filme: Título do Post, Título do Filme, Nome do Diretor, Elenco Principal, Pais, Ano, Foto, Nota, Resenha;
 - Série: Título do Post, Título da Série, Nome do Diretor, Elenco Principal, Pais, Ano, Temporada, Foto, Nota, Resenha.
 6. Salva e encaminha para avaliação do administrador do sistema.
 
@@ -486,7 +487,7 @@ Passo 4:
 ![Atualizar Perfil](https://github.com/ProjBITN/BITN/blob/main/Wireframes/atualizar-perfil.PNG)
 
 
-# 9. Diagrama de classes de domínio
+# 9. Diagrama de Classes de Domínio
 
 ![Diagrama de Dominio](https://github.com/ProjBITN/BITN/blob/main/diagramaDominio/diagrama-dominio.png)
  
