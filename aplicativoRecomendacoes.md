@@ -488,5 +488,5 @@ Passo 4:
 
 # 9. Diagrama de classes de domínio
 
-
+![Diagrama de Dominio](https://github.com/ProjBITN/BITN/blob/main/diagramaDominio/diagrama-dominio.png)
  
