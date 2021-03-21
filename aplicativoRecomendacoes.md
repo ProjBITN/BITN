@@ -128,6 +128,8 @@ c) A disponibilidade da aplicação deverá atender o padrão 99.99%, em regime 
 
 A figura a seguir apresenta o diagrama de casos de uso:
 
+![Caso de Uso](https://github.com/ProjBITN/BITN/blob/main/casoDeUso/caso-de-uso.png)
+
 ## 7.1. Realizar Login
 
 
