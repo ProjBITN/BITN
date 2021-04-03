@@ -281,7 +281,7 @@ Passo 3:
 ## 7.7. Pesquisar Usuário
 **Nome do caso de uso:** Pesquisar Usário 
 
-**Resumo:** Descrição:	Os membros logados poderão pesquisar por outros membros pelo nome e acessar as suas páginas pessoais.
+**Resumo:** Os membros logados poderão pesquisar por outros membros pelo nome e acessar as suas páginas pessoais.
 
 **Pré-condições:**
 * Ser registrado.
@@ -304,7 +304,7 @@ Passo 3:
 ## 7.8. Solicitar Amizade
 **Nome do caso de uso:** Solicitação de Amizade
 
-**Resumo:** Descrição:Cada membro poderá propor relacionamento de amizade a outro membro. O relacionamento de amizade será estabelecido quando o outro membro aceitar a proposta.
+**Resumo:** Cada membro poderá propor relacionamento de amizade a outro membro. O relacionamento de amizade será estabelecido quando o outro membro aceitar a proposta.
 
 **Pré-condições:**
 * Ser registrado.
@@ -329,7 +329,7 @@ Passo 3:
 ## 7.9. Curtir Publicação
 **Nome do caso de uso:** Curtir Publicação de Outro Usuário.
 
-**Resumo:** Descrição:	Um membro poderá das um "joinha" nas avaliações de outro membro. Em cada avaliação aparecerá o número de "joinhas" que ela já recebeu. O membro que deu o “joinha” para a avaliação poderá retirá-lo posteriormente se assim desejar.
+**Resumo:** Um membro poderá das um "joinha" nas avaliações de outro membro. Em cada avaliação aparecerá o número de "joinhas" que ela já recebeu. O membro que deu o “joinha” para a avaliação poderá retirá-lo posteriormente se assim desejar.
 
 **Pré-condições:**
 * Ser registrado.
@@ -352,7 +352,7 @@ Passo 3:
 ## 7.10. Mostrar Amigos em Comum
 **Nome do caso de uso:** Mostra Amigos em Comum Entre os Membros.
 
-**Resumo:** Descrição:	Quando um membro acessar a página de outro, o sistema deverá mostrar os amigos que eles têm em comum.
+**Resumo:** Quando um membro acessar a página de outro, o sistema deverá mostrar os amigos que eles têm em comum.
 
 **Pré-condições:**
 * Ser registrado.
@@ -377,7 +377,7 @@ Passo 3:
 ## 7.11. Vizualizar Relatório
 **Nome do caso de uso:** Vizualiza um relatório.
 
-**Resumo:** Descrição:	O sistema apresenta um relatório ao administrador. 
+**Resumo:** O sistema apresenta um relatório ao administrador. 
 
 **Pré-condições:**
 * Ser registrado como administrador.
@@ -425,7 +425,7 @@ Passo 1:
 ## 7.13. Sugerir Amizade
 **Nome do caso de uso:** Sugestão de amizade
 
-**Resumo:** Descrição:	Sempre que um membro acessar o sistema, ele deverá receber a sugestão de 3 membros que poderiam ser seus amigos. O critério será sugerir membros que têm preferências semelhantes, com base nas avaliações já realizadas.
+**Resumo:** Sempre que um membro acessar o sistema, ele deverá receber a sugestão de 3 membros que poderiam ser seus amigos. O critério será sugerir membros que têm preferências semelhantes, com base nas avaliações já realizadas.
 
 **Pré-condições:**
 * Membros com preferências semelhantes, com base nas avaliações já realizada.
