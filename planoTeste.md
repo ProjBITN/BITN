@@ -54,7 +54,22 @@ A tabela abaixo identifica a documentação e disponibilidade usados para desenv
 
 |   Rercurso      |   Subrecurso    |    Resultado  |   Observação   |
 | ------|-----|-----|-----|
-| Criar Usuário 	|     	| 	  | 	  |
+| Criar Usuário 	         |     	| 	  | 	  |
+| Login Inválido        	|     	| 	  | 	  |
+| Esqueci a Senha       	|     	| 	  | 	  |
+| Efetuar Logon Comum   	|     	| 	  | 	  |
+| Efetuar Logon Administrativo	 |     	| 	  | 	  |
+| Alterar Perfil Usuário 	|   Textos e Senha 	| 	  | 	  |
+| Alterar Perfil Usuário	|   Foto Principal 	| 	  | 	  |
+| Alterar Perfil Usuário	|   Foto Miniatura 	| 	  | 	  |
+| Alterar Perfil Usuário 	|   Fundo         	| 	  | 	  |
+| Criar Post Livros       |   Com Foto       	| 	  | 	  |
+| Criar Post Livros       |   Sem Foto       	| 	  | 	  |
+| Criar Post Séries       |   Com Foto       	| 	  | 	  |
+| Criar Post Séries       |   Sem Foto       	| 	  | 	  |
+| Criar Post Filmes       |   Com Foto       	| 	  | 	  |
+| Criar Post Filmes       |   Sem Foto       	| 	  | 	  |
+
 
 # 3. Estratégia de Teste
 
