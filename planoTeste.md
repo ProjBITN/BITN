@@ -35,7 +35,7 @@ Esse documento do Plano de Testes do BITn. compõe-se dos seguintes objetivos:
 A empresa BITn desenolve sistemas voltados para a área do entretenimento.
 
 ## 1.3 Escopo
-O escopo deste projeto traz o teste unitário do sistema web BITn, software que permite que um usuário faça recomendações de filmes, Séries e livros.
+O escopo deste projeto trata do teste unitário do sistema web BITn, software que permite que um usuário faça recomendações de filmes, Séries e livros.
 
 ## 1.4 Identificação de Projeto
 
