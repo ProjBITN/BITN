@@ -24,6 +24,15 @@ Este é um documento de especificação de requisitos para um Aplicativo para Re
 Este documento descreve os requisitos não-funcionais, modela os requisitos funcionais com casos de uso e modela os conceitos do domínio do problema.
 
 ## 1.1 Objetivos
+
+Esse documento do Plano de Testes do BITn. compõe-se dos seguintes objetivos:
+•	Identificar informações de projeto existentes e os componentes de software que devem ser testados.
+•	Listar os Requisitos a Testar recomendados.
+•	Recomendar e descrever as estratégias de teste a serem empregadas.
+•	Identificar os recursos necessários e prover uma estimativa dos esforços de teste.
+•	Listar os elementos resultantes do projeto de testes.
+
+
 ## 1.2 BITN
 ## 1.3 Escopo
 ## 1.4 Identificação de Projeto
