@@ -23,6 +23,7 @@ author: "Grupo BITN"
   - [4.1 Recursos Humanos](#41-recursos-humanos)
   - [4.2 Recursos Sistemas](#42-recursos-de-sistemas)
 - [5. Cronograma](#5-cronograma)
+- [5. Conclusão](#5-cronograma)
 
 
 
