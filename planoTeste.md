@@ -100,13 +100,17 @@ A tabela abaixo identifica aqueles itens – use cases, requisitos funcionais e 
 *Nota: As transações abaixo se referem às “transações lógicas de negócio”. Essas transações são definidas como funções específicas que um usuário final do sistema é suposto de executar ao usar a aplicação, tais como adicionar ou modificar uma dada informação.*
 
 ## 3.1	Teste de Integridade de Dados e do Banco de Dados
+
 **Objetivo do Teste:** 
 - Garantir que os métodos e processos de acesso ao banco de dados funcionam apropriadamente e sem corrupção dos dados.
+
 **Técnica:** 
 - Invocar cada método e processo de acesso ao banco de dados, alimentando cada um com dados ou requisições de dados válidos e inválidos. 
 - Inspecionar o banco de dados para garantir que os dados foram populados como pretendido, que todos os eventos do banco de dados ocorreram apropriadamente, ou revisar os dados retornados para garantir que os dados corretos foram recuperados pelas razões corretas.
+
 **Critério de Finalização:**
 - Todos os métodos e processos de acesso à base de dados funcionam como projetados e sem nenhuma corrupção de dados.
+
 **Considerações Especiais:**
 - O teste pode necessitar de um ambiente de desenvolvimento ou drivers de SGBD para inserir ou modificar os dados diretamente nas base de dados
 -	Processos devem ser invocados manualmente
