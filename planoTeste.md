@@ -40,11 +40,11 @@ Esse documento do Plano de Testes do BITn. compõe-se dos seguintes objetivos:
 A tabela abaixo identifica a documentação e disponibilidade usados para desenvolver o plano de testes:
 
 ---
-Documento	                      Criado ou Disponível	     Recebido ou Revisado
+Documento	        |              Criado ou Disponível	     |  Recebido ou Revisado |
 ---
-Especificação de Requisitos	         Sim   Não	           Sim   Não
-Diagramas	                           Sim   Não	           Sim   Não
-Protótipo	                           Sim   Não             Sim   Não
+Especificação de Requisitos	      |   Sim   Não	      |     Sim   Não |
+Diagramas	                        |   Sim   Não	      |     Sim   Não |
+Protótipo	                        |  Sim   Não        |     Sim   Não |
 
 
 # 2. Requisitos a Testar
