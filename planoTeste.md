@@ -179,16 +179,36 @@ A tabela abaixo identifica aqueles itens – use cases, requisitos funcionais e 
 
 
 ## 3.5	Teste de Carga
-**Objetivo do Teste:**
-**Técnica:**
-**Critério de Finalização:**
-**Considerações Especiais:**
 
-## 3.5 Teste de Segurança e Controle de Acesso
 **Objetivo do Teste:**
+- Verifique o tempo de resposta para as transações designadas ou casos de negócio sob condições variantes de carga de trabalho.
+
 **Técnica:**
+-	Use testes desenvolvidos para o Teste do Ciclo de Negócio ou Função.
+
 **Critério de Finalização:**
+- Múltiplas transações ou usuários: finalização bem sucedida dos testes sem qualquer falha e dentro da alocação de tempo aceitável.
+
 **Considerações Especiais:**
+- Nenhum.
+
+
+## 3.6 Teste de Segurança e Controle de Acesso
+
+**Objetivo do Teste:**
+- Segurança do Nível de Aplicação:  Verifique que um ator pode acessar apenas aquelas funções ou dados para os quais o seu tipo de usuário tem permissão. 
+-	Segurança do Nível de Sistema:  Verifique que apenas aqueles atores com acesso ao sistema e aplicações têm permissão de acessá-los.
+
+**Técnica:**
+- Segurança do Nível de Aplicação:  Identifique e liste cada tipo de usuário e as funções ou dados para os quais cada tipo tem permissão.
+- Crie testes para cada tipo de usuário e verifique cada permissão criando transações específicos para cada tipo de usuário.
+- Modifique o tipo de usuário e repita os testes para os mesmos usuários. Em cada caso, verifique que funções ou dados adicionais estão corretamente disponíveis ou negados.
+
+**Critério de Finalização:**
+- Para cada tipo de ator conhecido as funções ou dados apropriados estão disponíveis, e todas as transações funcionam como esperado e rodam nos Testes de Função anteriores.
+
+**Considerações Especiais:**
+-O Acesso ao sistema deve ser revisado ou discutido com o  administrador  de rede ou de sistema apropriado. Esse teste pode não ser necessário já que ele pode ser uma função da administração da rede ou sistema.
 
 
 
