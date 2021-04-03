@@ -250,8 +250,15 @@ A tabela seguinte expõe os recursos do sistema para o projeto de teste.
 
 | **Milestone**      |  **Data de Início**     | **Data de Término** |
 | ------|-----|-----|
-| Planejar Teste 	|     	| 	|
-| Projetar Teste	|   	|   	|
-| Implementar Teste		|    	|   	|
-| Executar Teste		|    	|   	|
-| AvaliarTeste		|    	|   	|
+| Planejar Teste 	|    22/03/2021 	|  04/04/2021 	|
+| Projetar Teste	|    22/03/2021 	|  04/04/2021 	|
+| Implementar Teste		|            	|             	|
+| Executar Teste		|              	|             	|
+| AvaliarTeste		|               	|              	|
+
+
+# 6. Conclusão
+
+[Em andamento]
+
+
