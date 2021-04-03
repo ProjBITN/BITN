@@ -101,7 +101,10 @@ Essa seção apresenta os recursos recomendados para o projeto do "Aplicativo pa
 
 | **Trabalhador**      |  **Recursos Minímos Recomendados**     | **RResponsabilidades Específicas ou Comentários** |
 | ------|-----|-----|
-|<ul><li>Gerente de Teste</li><li>Gerente do Projeto de Teste</li></ul>  	| NOME 	| <ul><li>Fornece supervisionamento gerencial.</li><li>Responsabilidades: provê direcionamento técnico; adquire recursos; apropriados; fornece relatórios de gerenciamento</li></ul> 	|
+|<ul><li>Gerente de Teste</li><li>Gerente do Projeto de Teste</li></ul>  	| NOME 	| <ul><li>Fornece supervisionamento gerencial.</li><li>Responsabilidades: provê direcionamento técnico; adquire recursos; apropriados; fornece relatórios de gerenciamento</li></ul>|
+
+|<ul><li>Test Designer</li></ul>  	| NOME 	| <ul><li>Identifica, prioriza, e implementa os casos de teste.</li><li>Responsabilidades: gera o plano de teste; cria o modelo de teste; avalia a efetividade do esforço de teste</li></ul>|
+
 
 ## 4.2 Rercursos de Sistemas
 
