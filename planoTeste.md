@@ -53,7 +53,7 @@ A tabela abaixo identifica a documentação e disponibilidade usados para desenv
 # 2. Requisitos a Testar
 
 ----
-| TESTE|
+TESTE
 ----
 |   Rercurso      |   Subrecurso    |    Resultado  |   Observação   |
 | ------|-----|-----|-----|
