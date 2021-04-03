@@ -25,7 +25,7 @@ author: "Grupo BITN"
 
 Esse documento do Plano de Testes do BITn. compõe-se dos seguintes objetivos:
 - Identificar informações de projeto existentes e os componentes de software que devem ser testados.
-- Listar os Requisitos a Testar recomendados.
+- Listar os Requisitos a Testar.
 - Recomendar e descrever as estratégias de teste a serem empregadas.
 - Identificar os recursos necessários e prover uma estimativa dos esforços de teste.
 - Listar os elementos resultantes do projeto de testes.
