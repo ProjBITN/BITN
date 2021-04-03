@@ -116,6 +116,12 @@ Essa seção apresenta os recursos recomendados para o projeto do "Aplicativo pa
 
 ## 4.2 Rercursos de Sistemas
 
+A tabela seguinte expõe os recursos do sistema para o projeto de teste.
+
+| **Recursos do Sistema** |
+| ------|
+| Servidor de Banco de Dados |
+| Terminal do Usuário |
 
 
 # 5. Cronograma
