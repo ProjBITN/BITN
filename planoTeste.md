@@ -9,7 +9,7 @@ author: "Grupo BITN"
 - [1. Introdução](#1-introdução)
   - [1.1 Objetivos](#11-objetivos)
   - [1.2 BITn](#12-bitn)
-  - [1.3 Escopo](#1.3-escopo)
+  - [1.3 Escopo](#13-escopo)
   - [1.4 Identificação de Projeto](#14-identificacao-de-projeto)
 
 
@@ -19,8 +19,8 @@ Este é um documento de especificação de requisitos para um Aplicativo para Re
 
 Este documento descreve os requisitos não-funcionais, modela os requisitos funcionais com casos de uso e modela os conceitos do domínio do problema.
 
-## 1.1. Objetivos
-## 1.2. BITN
-## 1.3. Escopo
-## 1.4. Identificação de Projeto
+## 1.1 Objetivos
+## 1.2 BITN
+## 1.3 Escopo
+## 1.4 Identificação de Projeto
 
