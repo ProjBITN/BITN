@@ -33,8 +33,6 @@ author: "Grupo BITN"
   - [8.3. Deixe Sua Dica](#83-deixe-sua-dica)
   - [8.4. Atualizar Perfil](#84-atualizar-perfil)
 - [9. Diagrama modelo de domínio](#9-diagrama-modelo-de-domínio)
-- [10. Diagrama de classe](#10-diagrama-de-classe)
-- [11. Diagrama de sequência](#11-diagrama-de-sequência)
 
 
 # 1. Introdução
@@ -493,9 +491,7 @@ Passo 4:
 
 ![Diagrama de Dominio](https://github.com/ProjBITN/BITN/blob/main/diagramaDominio/diagrama-dominio-2.png)
 
-# 10. Diagrama de Classe
 
-# 11. Diagrama de Sequência
 
 
  
