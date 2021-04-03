@@ -1,6 +1,6 @@
 # *Design* (Projeto)
-## PROJETO: Sistema web de vendas Solar System
-### Curso de Sistemas de Informação
+## PROJETO: BITn
+### Curso de Análise e Desenvolvimento de Sistemas
 ### Prática Profissional em ADS
 ### Turmas 05K e 05J
 ### 1º semestre de 2021
