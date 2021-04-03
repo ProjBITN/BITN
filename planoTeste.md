@@ -112,31 +112,71 @@ A tabela abaixo identifica aqueles itens – use cases, requisitos funcionais e 
 - Todos os métodos e processos de acesso à base de dados funcionam como projetados e sem nenhuma corrupção de dados.
 
 **Considerações Especiais:**
-- O teste pode necessitar de um ambiente de desenvolvimento ou drivers de SGBD para inserir ou modificar os dados diretamente nas base de dados
 -	Processos devem ser invocados manualmente
 -	Bases de dados pequenas ou minimizadas (número de registros limitados) devem ser usados para aumentar a visibilidade de eventos não-aceitáveis.
 
 
 
 ## 3.2	Teste de Função
+
 **Objetivo do Teste:**
+- Garantir a funcionalidade apropriada do alvo do teste, incluindo navegação, entrada de dados, processamento, e recuperação.
+
 **Técnica:**
+- Executar cada caso de uso, fluxo de caso de uso, usando dados válidos e inválidos, para verificar o seguinte:
+  - Os resultados esperados ocorrem quando dados válidos são usados
+  - As mensagens de erro ou aviso apropriadas são exibidas quando dados inválidos são usados.
+  - Cada regra de negócio é aplicada apropriadamente.
+
+
 **Critério de Finalização:**
+- Todos os testes planejados foram executados.
+- Todos os defeitos identificados foram tratados.
+
+
 **Considerações Especiais:**
+- Nenhum.
+
 
 
 ## 3.3	Teste de Inteface do Usuário
+
 **Objetivo do Teste:**
+- Verificar o seguinte:
+  - A navegação através dos alvos de teste reflete as funções e os requisitos do negócio apropriadamente, incluindo janela-a-janela, campo-a-campo, e o uso de métodos de acesso (tecla tab, movimentos do mouse, teclas aceleradoras)
+  - Objetos e características da janela, tais como menus, tamanho, posição, estado e foco conformam-se aos padrões.
+
+
 **Técnica:**
+- Criar ou modificar os testes para cada janela para verificar a navegação e os estados de objeto apropriados para cada janela e objetos da aplicação.
+
 **Critério de Finalização:**
+- É verificado que cada janela permanece consistente com a versão de comparação ou dentro de padrões aceitáveis. 
+
 **Considerações Especiais:**
+- Nenhum.
 
 
 ## 3.4	Teste de Performace
+
 **Objetivo do Teste:**
+- Verificar que os comportamentos de performance para as transações designadas ou funções de negócio sob as seguintes condições:
+  - Carga de trabalho normal antecipada
+  - Carga de trabalho no pior caso antecipada
+
 **Técnica:**
+- Usar Procedimentos de Teste desenvolvidos para Teste da Função ou Ciclo de Negócio
+- Modificar os arquivos de dados para aumentar o número de transações ou os scripts para aumentar o número de iterações que ocorre a cada transação.
+- Scripts devem ser rodados em uma máquina (melhor caso para comparar um único usuário, uma única transação) e ser repetidas com múltiplos usuários.
+
 **Critério de Finalização:**
+- Único usuário ou transação: finalização com sucesso dos scripts de testes sem nenhuma falha e dentro da alocação de tempo por transação esperada ou requisitada.
+- Múltiplas transações ou usuários: finalização bem sucedida dos scripts de teste sem qualquer falha e dentro da alocação de tempo aceitável. 
+
 **Considerações Especiais:**
+- Nenhum.
+
+
 
 ## 3.5	Teste de Carga
 **Objetivo do Teste:**
