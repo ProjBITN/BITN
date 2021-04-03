@@ -11,6 +11,10 @@ author: "Grupo BITN"
   - [1.2 BITn](#12-bitn)
   - [1.3 Escopo](#13-escopo)
   - [1.4 Identificação de Projeto](#14-identificação-de-projeto)
+- [2. Requisitos a Testar](#2-requisitos-a-testar)
+- [3. Estratégia de Teste](#3-esetratégia-de-teste)
+- [4. Recursos](#4-recursos)
+- [5. Cronograma](#5-cronograma)
 
 
 # 1. Introdução
@@ -23,4 +27,12 @@ Este documento descreve os requisitos não-funcionais, modela os requisitos func
 ## 1.2 BITN
 ## 1.3 Escopo
 ## 1.4 Identificação de Projeto
+
+# 2. Requisitos a Testar
+
+# 3. Estratégia de Teste
+
+# 4. Recursos
+
+# 5. Cronograma
 
