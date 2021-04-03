@@ -13,6 +13,12 @@ author: "Grupo BITN"
   - [1.4 Identificação de Projeto](#14-identificação-de-projeto)
 - [2. Requisitos a Testar](#2-requisitos-a-testar)
 - [3. Estratégia de Teste](#3-estratégia-de-teste)
+  - [3.1 Teste de Integridade de Dados e do Banco de Dados](#31-teste-de-integridade-de-dados-e-do-banco-de-dados)
+  - [3.2 Teste de Função](#32-teste-de-função)
+  - [3.3 Teste de Inteface do Usuário](#33-teste-de-inteface-do-usuário)
+  - [3.4 Teste de Performance](#34-teste-de-performance)
+  - [3.5 Teste de Carga](#34-teste-de-carga)
+  - [3.5 Teste de Segurança e Controle de Acesso](#34-teste-de-segurança-e-controle-de-acesso)
 - [4. Recursos](#4-recursos)
   - [4.1 Recursos Humanos](#41-recursos-humanos)
   - [4.2 Recursos Sistemas](#42-recursos-de-sistemas)
@@ -157,7 +163,7 @@ A tabela abaixo identifica aqueles itens – use cases, requisitos funcionais e 
 - Nenhum.
 
 
-## 3.4	Teste de Performace
+## 3.4	Teste de Performance
 
 **Objetivo do Teste:**
 - Verificar que os comportamentos de performance para as transações designadas ou funções de negócio sob as seguintes condições:
