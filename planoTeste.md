@@ -95,6 +95,15 @@ A tabela abaixo identifica aqueles itens – use cases, requisitos funcionais e 
 # 3. Estratégia de Teste
 
 # 4. Recursos
+Essa seção apresenta os recursos recomendados para o projeto do "Aplicativo para Recomendação de Filmes, Séries e Livros", suas principais responsabilidades, e seus conhecimentos ou conjunto de habilidades.
+
+## 4.1 Rercursos Humanos
+
+| **Trabalhador**      |  **Recursos Minímos Recomendados**     | **RResponsabilidades Específicas ou Comentários** |
+| ------|-----|-----|
+| Gerente de Teste / Gerente do Projeto de Teste  	| NOME 	| Fornece supervisionamento gerencial. Responsabilidades:provê direcionamento técnico; adquire recursos; apropriados;fornece relatórios de gerenciamento 	|
+
+## 4.2 Rercursos de Sistemas
 
 # 5. Cronograma
 
