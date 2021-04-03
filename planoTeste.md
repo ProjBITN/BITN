@@ -69,6 +69,25 @@ A tabela abaixo identifica a documentação e disponibilidade usados para desenv
 | Criar Post Séries       |   Sem Foto       	| 	  | 	  |
 | Criar Post Filmes       |   Com Foto       	| 	  | 	  |
 | Criar Post Filmes       |   Sem Foto       	| 	  | 	  |
+| Visualizar Post         |   Livros         	| 	  | 	  |
+| Visualizar Post         |   Séries         	| 	  | 	  |
+| Visualizar Post         |   Filmes         	| 	  | 	  |
+| Validar Post (User ADM) |   Visualizar     	| 	  | 	  |
+| Validar Post (User ADM) |   Autorizar      	| 	  | 	  |
+| Validar Post (User ADM) |   Negar          	| 	  | 	  |
+| Alterar Dados do Post   |   Livros         	| 	  | 	  |
+| Alterar Dados do Post   |   Séries         	| 	  | 	  |
+| Alterar Dados do Post   |   Filmes         	| 	  | 	  |
+| Testar Like             |   Avaliações     	| 	  | 	  |
+| Criar Amigos            |                  	| 	  | 	  |
+| Desfazer Amizades       |                  	| 	  | 	  |
+| Meus Últimos Posts      |                  	| 	  | 	  |
+| Últimos Visitados       |                  	| 	  | 	  |
+| Recomendados            |                  	| 	  | 	  |
+| Avaliações Recentes     |                  	| 	  | 	  |
+| Testar Tela do Perfil   |                  	| 	  | 	  |
+| Performance             |                  	| 	  | 	  |
+| Logoff                  |                  	| 	  | 	  |
 
 
 # 3. Estratégia de Teste
