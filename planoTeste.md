@@ -19,9 +19,7 @@ author: "Grupo BITN"
 
 # 1. Introdução
 
-Este é um documento de especificação de requisitos para um Aplicativo para Recomendações de Filmes, Séries e Livros. 
 
-Este documento descreve os requisitos não-funcionais, modela os requisitos funcionais com casos de uso e modela os conceitos do domínio do problema.
 
 ## 1.1 Objetivos
 
@@ -56,3 +54,10 @@ A tabela abaixo identifica a documentação e disponibilidade usados para desenv
 
 # 5. Cronograma
 
+| **Milestone**      |  **Data de Início**     | **Data de Término** |
+| ------|-----|-----|
+| Planejar Teste 	|     	| 	|
+| Projetar Teste	|   	|   	|
+| Implementar Teste		|    	|   	|
+| Executar Teste		|    	|   	|
+| AvaliarTeste		|    	|   	|
