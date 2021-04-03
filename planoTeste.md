@@ -8,7 +8,7 @@ author: "Grupo BITN"
 
 - [1. Introdução](#1-introdução)
   - [1.1 Objetivos](#11-objetivos)
-  - [1.2 BITn](#12-bitn)
+  - [1.2 Grupo BITn](#12-grupo-bitn)
   - [1.3 Escopo](#13-escopo)
   - [1.4 Identificação de Projeto](#14-identificação-de-projeto)
 - [2. Requisitos a Testar](#2-requisitos-a-testar)
@@ -41,8 +41,8 @@ Esse documento do Plano de Testes do "Aplicativo para Recomendação de Filmes, 
 - Listar os elementos resultantes do projeto de testes.
 
 
-## 1.2 BITN
-A empresa BITn desenolve sistemas voltados para a área do entretenimento.
+## 1.2 Grupo BITN
+O grupo BITn desenolve sistemas voltados para a área do entretenimento.
 
 ## 1.3 Escopo
 O escopo deste projeto trata do teste unitário e do teste de sistema da aplicação web desenvolvida pelo grupo BITn, cujo objetivo é permitir que o usuário faça recomendações de filmes, Séries e livros.
