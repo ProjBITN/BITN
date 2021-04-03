@@ -1,5 +1,5 @@
 # *Design* (Projeto)
-## PROJETO: BITn - Sistema de Cadastro de Conteúdo
+## PROJETO: "Aplicativo para Recomendação de Filmes, Séries e Livros."
 ### Curso de Análise e Desenvolvimento de Sistemas
 ### Prática Profissional em ADS
 ### Turmas 05K e 05J
