@@ -14,7 +14,10 @@ author: "Grupo BITN"
 - [2. Requisitos a Testar](#2-requisitos-a-testar)
 - [3. Estratégia de Teste](#3-estratégia-de-teste)
 - [4. Recursos](#4-recursos)
+  - [4.1 Recursos Humanos](#41-recursos-humanos)
+  - [4.2 Recursos Sistemas](#42-recursos-de-sistemas)
 - [5. Cronograma](#5-cronograma)
+
 
 
 # 1. Introdução
@@ -97,7 +100,7 @@ A tabela abaixo identifica aqueles itens – use cases, requisitos funcionais e 
 # 4. Recursos
 Essa seção apresenta os recursos recomendados para o projeto do "Aplicativo para Recomendação de Filmes, Séries e Livros", suas principais responsabilidades, e seus conhecimentos ou conjunto de habilidades.
 
-## 4.1 Rercursos Humanos
+## 4.1 Recursos Humanos
 
 | **Trabalhador**      |  **Recursos Minímos Recomendados**     | **Responsabilidades Específicas ou Comentários** |
 | ------|-----|-----|
@@ -113,6 +116,8 @@ Essa seção apresenta os recursos recomendados para o projeto do "Aplicativo pa
 
 
 ## 4.2 Rercursos de Sistemas
+
+
 
 # 5. Cronograma
 
