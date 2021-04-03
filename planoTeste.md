@@ -97,6 +97,53 @@ A tabela abaixo identifica aqueles itens – use cases, requisitos funcionais e 
 
 # 3. Estratégia de Teste
 
+*Nota: As transações abaixo se referem às “transações lógicas de negócio”. Essas transações são definidas como funções específicas que um usuário final do sistema é suposto de executar ao usar a aplicação, tais como adicionar ou modificar uma dada informação.*
+
+## 3.1	Teste de Integridade de Dados e do Banco de Dados
+
+**Objetivo do Teste:**
+**Técnica:**
+**Critério de Finalização:**
+**Considerações Especiais:**
+
+
+## 3.2	Teste de Função
+
+**Objetivo do Teste:**
+**Técnica:**
+**Critério de Finalização:**
+**Considerações Especiais:**
+
+
+## 3.3	Teste de Inteface do Usuário
+
+**Objetivo do Teste:**
+**Técnica:**
+**Critério de Finalização:**
+**Considerações Especiais:**
+
+
+## 3.4	Teste de Performace
+**Objetivo do Teste:**
+**Técnica:**
+**Critério de Finalização:**
+**Considerações Especiais:**
+
+## 3.5	Teste de Carga
+**Objetivo do Teste:**
+**Técnica:**
+**Critério de Finalização:**
+**Considerações Especiais:**
+
+## 3.5 Teste de Segurança e Controle de Acesso
+**Objetivo do Teste:**
+**Técnica:**
+**Critério de Finalização:**
+**Considerações Especiais:**
+
+
+
+
 # 4. Recursos
 Essa seção apresenta os recursos recomendados para o projeto do "Aplicativo para Recomendação de Filmes, Séries e Livros", suas principais responsabilidades, e seus conhecimentos ou conjunto de habilidades.
 
