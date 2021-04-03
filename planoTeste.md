@@ -52,6 +52,8 @@ A tabela abaixo identifica a documentação e disponibilidade usados para desenv
 
 # 2. Requisitos a Testar
 
+A tabela abaixo identifica aqueles itens – use cases, requisitos funcionais e não funcionais – que foram identificados como alvos de teste. 
+
 |   Rercurso      |   Subrecurso    |    Resultado  |   Observação   |
 | ------|-----|-----|-----|
 | Criar Usuário 	         |     	| 	  | 	  |
