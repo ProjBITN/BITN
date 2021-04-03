@@ -23,7 +23,7 @@ author: "Grupo BITN"
 
 ## 1.1 Objetivos
 
-Esse documento do Plano de Testes do BITn. compõe-se dos seguintes objetivos:
+Esse documento do Plano de Testes do "Aplicativo para Recomendação de Filmes, Séries e Livros". compõe-se dos seguintes objetivos:
 - Identificar informações de projeto existentes e os componentes de software que devem ser testados.
 - Listar os Requisitos a Testar.
 - Recomendar e descrever as estratégias de teste a serem empregadas.
@@ -35,7 +35,7 @@ Esse documento do Plano de Testes do BITn. compõe-se dos seguintes objetivos:
 A empresa BITn desenolve sistemas voltados para a área do entretenimento.
 
 ## 1.3 Escopo
-O escopo deste projeto trata do teste unitário e de sistema da aplicação web BITn, cuja objetivo é permitir que o usuário faça recomendações de filmes, Séries e livros.
+O escopo deste projeto trata do teste unitário e do teste de sistema da aplicação web desenvolvida pelo grupo BITn, cujo objetivo é permitir que o usuário faça recomendações de filmes, Séries e livros.
 
 ## 1.4 Identificação de Projeto
 
