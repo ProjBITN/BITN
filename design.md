@@ -1,5 +1,5 @@
 # *Design* (Projeto)
-## PROJETO: BITn
+## PROJETO: BITn - Sistema de Cadastro de Conteúdo
 ### Curso de Análise e Desenvolvimento de Sistemas
 ### Prática Profissional em ADS
 ### Turmas 05K e 05J
