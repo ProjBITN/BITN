@@ -404,7 +404,7 @@ Passo 2:
 ## 7.12. Indicar Conteúdo
 **Nome do caso de uso:** Indicação de Conteúdo.
 
-**Resumo:** Descrição:	Após o sistema ter pelo menos 10 membros cadastrados e cada membro entrar em pelo menos 10 avaliações, o sistema passará a apresentar para cada membro recomendações de filmes, séries e livros que podem ser de seu interesse.
+**Resumo:** Após o sistema ter pelo menos 10 membros cadastrados e cada membro entrar em pelo menos 10 avaliações, o sistema passará a apresentar para cada membro recomendações de filmes, séries e livros que podem ser de seu interesse.
 
 **Pré-condições:**
 * Ter pelo menos 10 membros cadastrados e cada membro entrar em pelo menos 10 avaliações.
