@@ -22,5 +22,5 @@ Este documento descreve os requisitos não-funcionais, modela os requisitos func
 ## 1.1. Objetivos
 ## 1.2. BITN
 ## 1.3. Escopo
-## 1.4. Identificação do Projeto
+## 1.4. Identificação de Projeto
 
