@@ -110,8 +110,7 @@ Essa seção apresenta os recursos recomendados para o projeto do "Aplicativo pa
 |<ul><li>Administrador do Sistema de Teste</li></ul>  	| NOME 	| <ul><li>Garante que o ambiente e os bens de teste sejam gerenciados e mantidos.</li><li>Responsabilidades: administrar o sistema de gerenciamento teste; instalar e gerenciar o acesso do trabalhador ao sistema de testes</li></ul>|
 |<ul><li>Gerente do Banco de Dados</li><li>Administrador do Banco de Dados</li></ul>  	| NOME 	| <ul><li>Garante que o ambiente e bens de teste de dados (banco de dados) sejam gerenciados e mantidos.</li><li>Responsabilidades: administrar os dados de teste (base de dados)</li></ul>|
 |<ul><li>Designer</li></ul>  	| NOME 	| <ul><li>GIdentifica e define as operações, atributos, e associações das classes de teste.</li><li>Responsabilidades: cria as classes e pacotes de teste implementados no modelo de teste</li></ul>|
-|<ul><li>Implementador</li></ul>  	| NOME 	| <ul><li>Implementa e faz os testes unitários das classes e pacotes de teste. </li><li>Responsabilidades:
-•	cria as classes e pacotes de teste implementados no modelo de teste</li></ul>|
+|<ul><li>Implementador</li></ul>  	| NOME 	| <ul><li>Implementa e faz os testes unitários das classes e pacotes de teste. </li><li>Responsabilidades: cria as classes e pacotes de teste implementados no modelo de teste</li></ul>|
 
 
 
