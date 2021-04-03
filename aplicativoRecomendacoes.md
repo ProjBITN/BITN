@@ -32,7 +32,7 @@ author: "Grupo BITN"
   - [8.2. Home Page](#82-home-page)
   - [8.3. Deixe Sua Dica](#83-deixe-sua-dica)
   - [8.4. Atualizar Perfil](#84-atualizar-perfil)
-- [9. Diagrama de classes de domínio](#9-diagrama-de-classes-de-domínio)
+- [9. Diagrama modelo de domínio](#9-diagrama-modelo-de-domínio)
 
 
 # 1. Introdução
@@ -487,7 +487,7 @@ Passo 4:
 ![Atualizar Perfil](https://github.com/ProjBITN/BITN/blob/main/Wireframes/atualizar-perfil.PNG)
 
 
-# 9. Diagrama de Classes de Domínio
+# 9. Diagrama Modelo de Domínio
 
 ![Diagrama de Dominio](https://github.com/ProjBITN/BITN/blob/main/diagramaDominio/diagrama-dominio-II.png)
  
