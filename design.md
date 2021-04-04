@@ -9,7 +9,7 @@
 
 (em elaboração)
 
-# Diagramas de sequência
+# Diagramas de Sequência
 
 ## 01. Realizar Login
 ![Diagrama 01: Login](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/1.loginUsuario.png)
@@ -17,6 +17,12 @@
 ## 02. Registrar Usuário
 ![Diagrama 02: Cadastro](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/2.Cadastro.png)
 
-# Diagramas de classes (projeto)
+
+## 03. RCadastrar Conteúdo
+![Diagrama 03: cadastro de Conteúdo](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/3.CadastroConteudo.png)
+
+
+
+# Diagramas de Classes (projeto)
 
 (em elaboração)
