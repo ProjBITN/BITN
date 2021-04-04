@@ -11,7 +11,7 @@
 
 # Diagramas de sequência
 
-## 01. Login
+## 01. Realizar Login
 ![Diagrama 01: Login](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/1.loginUsuario.png)
 
 # Diagramas de classes (projeto)
