@@ -7,7 +7,13 @@
 
 # Introdução
 
-(em elaboração)
+A Linguagem de modelagem unificada (UML) foi criada para estabelecer uma linguagem de modelagem visual comum, semanticamente e sintaticamente rica, para arquitetura, design e implementação de sistemas de software complexos, tanto estruturalmente quanto para comportamentos. Além do desenvolvimento de software, a UML tem aplicações em fluxos do processo na fabricação.
+
+É análoga aos modelos utilizados em outros campos, e é composta por diferentes tipos de diagramas. De modo geral, diagramas UML descrevem o limite, a estrutura e o comportamento do sistema e os objetos nele contidos.
+
+A UML não é uma linguagem de programação, mas existem ferramentas que podem ser usadas para gerar código em várias linguagens por meio de diagramas UML. A UML tem uma relação direta com a análise e o design orientados a objetos.
+
+A seguir traremos diagramas de sequência e classe elaborados para o projeto "Aplicativo para Recomendação de Filmes, Séries e Livros.". O trabalho faz parte conteúdo curricular de Prática Profissional em ADS, ministrado no 5° Semestre de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
 
 # Diagramas de Sequência
 
