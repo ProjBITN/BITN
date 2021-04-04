@@ -21,6 +21,9 @@
 ## 03. Cadastrar Conteúdo
 ![Diagrama 03: cadastro de Conteúdo](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/3.CadastroConteudo.png)
 
+## 04.Atualizar Perfil
+![Diagrama 4: cAtualizar Perfil]()
+
 
 
 # Diagramas de Classes (projeto)
