@@ -18,7 +18,7 @@
 ![Diagrama 02: Cadastro](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/2.Cadastro.png)
 
 
-## 03. RCadastrar Conteúdo
+## 03. Cadastrar Conteúdo
 ![Diagrama 03: cadastro de Conteúdo](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/3.CadastroConteudo.png)
 
 
