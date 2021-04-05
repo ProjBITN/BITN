@@ -34,4 +34,4 @@ A seguir traremos diagramas de sequência e classe elaborados para o projeto "Ap
 
 # Diagramas de Classes (projeto)
 
-(em elaboração)
+![Esboço (EM ELABOEAÇÂO): Diagramade Classe] (https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/esbo%C3%A7o_diagramaClasses.png)
