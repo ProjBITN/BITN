@@ -244,7 +244,7 @@ A tabela seguinte expõe os recursos do sistema para o projeto de teste.
 | **Recursos do Sistema** | **Descrição** |
 | ------|------|
 | Servidor de Banco de Dados | |
-| Terminal do Usuário |  |
+| Terminal do Usuário | 1 COMPUTADOR COM ACESSO A INTERNET |
 
 
 # 5. Cronograma
