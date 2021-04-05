@@ -28,7 +28,7 @@ A seguir traremos diagramas de sequência e classe elaborados para o projeto "Ap
 ![Diagrama 03: cadastro de Conteúdo](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/3.Cadastro_segVersao-.png)
 
 ## 04. Atualizar Perfil
-![Diagrama 4: Atualizar Perfil](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/4.%20AtualizarPerfil.png)
+![Diagrama 4: Atualizar Perfil](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/4.AtualizarPerfil_segVersao.png)
 
 
 
