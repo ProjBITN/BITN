@@ -21,7 +21,7 @@ A seguir traremos diagramas de sequência e classe elaborados para o projeto "Ap
 ![Diagrama 01: Login](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/1.loginUsuario_segundaVersao.png)
 
 ## 02. Registrar Usuário
-![Diagrama 02: Cadastro](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/2.Cadastro.png)
+![Diagrama 02: Cadastro](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/2.CadastroUsuario_segVersao.png)
 
 
 ## 03. Cadastrar Conteúdo
