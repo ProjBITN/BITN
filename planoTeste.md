@@ -253,9 +253,9 @@ A tabela seguinte expõe os recursos do sistema para o projeto de teste.
 | ------|-----|-----|
 | Planejar Teste 	|    22/03/2021 	|  04/04/2021 	|
 | Projetar Teste	|    22/03/2021 	|  04/04/2021 	|
-| Implementar Teste		|            	|             	|
-| Executar Teste		|              	|             	|
-| Avaliar Teste		|               	|              	|
+| Implementar Teste		|    04/04/2021    	|       15/05/2021   	|
+| Executar Teste		  |    04/04/2021    	|       15/05/2021   	|
+| Avaliar Teste	    	|    04/04/2021    	|       15/05/2021   	|
 
 
 # 6. Conclusão
