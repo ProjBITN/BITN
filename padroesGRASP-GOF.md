@@ -33,6 +33,14 @@ Os padrões de projeto:
 
 ## 02. Creator (criador)
 
+A criação de objetos é uma das mais comuns atividades em um sistema orientado a objetos. Descobrir qual classe é responsável por criar objetos é uma propriedade fundamental da relação entre objetos de classes particulares.
+
+Em geral, uma classe B deve ser responsável por criar instâncias de classe A se uma, ou preferencialmente mais, das seguintes afirmações se aplicam:
+
+- Instâncias de B contêm ou agregam instâncias de A;
+- Instâncias de B gravam instâncias de A;
+- Instâncias de B utilizam de perto instâncias de A;
+- Instâncias de B têm as informações de iniciação das instâncias de A e passam isso na criação.
 
 
 
