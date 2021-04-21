@@ -32,7 +32,7 @@ Os padrões de projeto:
 
 
 ## 02. Registrar Usuário
-![Diagrama 02: Cadastro](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/2.CadastroUsuario_segVersao.png)
+
 
 
 
