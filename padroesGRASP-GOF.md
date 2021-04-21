@@ -26,4 +26,14 @@ Os padrões de projeto:
 ![Diagrama de Classe](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/6.diagramaPadraoProjeto.png)
 
 
+## 01. Polimorfismo
+
+
+
+
+## 02. Registrar Usuário
+![Diagrama 02: Cadastro](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/2.CadastroUsuario_segVersao.png)
+
+
+
 
