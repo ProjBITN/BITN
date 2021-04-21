@@ -26,4 +26,4 @@ Os padrões de projeto:
 ![Diagrama de Classe]()
 
 
-# Arquitetura de Software
+
