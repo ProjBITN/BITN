@@ -21,7 +21,7 @@ Os padrões de projeto:
 
 
 
-# Diagrama de Classes
+# Padrões aplicados ao Diagrama de Classes
 
 ![Diagrama de Classe](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/6.diagramaPadraoProjeto.png)
 
