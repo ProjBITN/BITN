@@ -31,7 +31,7 @@ Os padrões de projeto:
 
 
 
-## 02. Registrar Usuário
+## 02. Creator (criador)
 
 
 
