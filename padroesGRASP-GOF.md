@@ -28,7 +28,7 @@ Os padrões de projeto:
 
 ## 01. Polimorfismo
 
-
+De acordo com o princípio do polimorfismo, a responsabilidade de definir a variação dos comportamentos com base no tipo é atribuída ao tipo para o qual essa variação ocorre. Isto é conseguido utilizando operações polimórficas. O usuário do tipo deve usar operações polimórficas em vez de ramificações explícitas com base no tipo. 
 
 
 ## 02. Creator (criador)
