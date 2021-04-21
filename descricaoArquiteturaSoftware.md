@@ -11,6 +11,6 @@ A arquitetura de software de um sistema consiste na definição dos componentes 
 O termo também se refere à documentação da arquitetura de software do sistema. A documentação da arquitetura do software facilita: a comunicação entre os stakeholders,
 registra as decisões iniciais acerca do projeto de alto-nível, e permite o reúso do projeto dos componentes e padrões entre projetos.
 
-# Arquitetura
+# Descrição da Arquitetura
 
 ![Arquitetura]()
