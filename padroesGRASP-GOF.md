@@ -23,7 +23,7 @@ Os padrões de projeto:
 
 # Diagrama de Classes
 
-![Diagrama de Classe]()
+![Diagrama de Classe](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/6.diagramaPadraoProjeto.png)
 
 
 
