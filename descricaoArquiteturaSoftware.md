@@ -83,6 +83,23 @@ O Controle (Controller) envia essas ações para o Modelo (Model) e para a janel
 - A figura a seguir apresenta o diagrama de casos de uso:
 ![Caso de Uso](https://github.com/ProjBITN/BITN/blob/main/casoDeUso/caso-de-uso.png)
 
+## 7.1. Descrição dos Casos de Uso
+
+| **Caso de Uso**     | **Descrição**  |
+| ------|-----|
+| Realizar Login 	| Para ganhar acesso a informações restritas ou personalizadas, fazer recomendações ou avaliar conteúdo, um usuário precisa se autenticar e o sistema determinará seu nível de acesso.|
+| Registrar Usuário	|  Para ter acesso a informações restritas ou personalizadas, fazer recomendações ou avaliar conteúdo, o usuário precisa realizar um cadastro.	| 
+| Atualizar Perfil	|  Cada membro poderá, a qualquer momento, atualizar os dados do seu perfil.	| 
+| Cadastrar Conteúdo |  Após acessar o sistema, o usuário pode cadastrar um novo filme, série ou livro.| 
+| Acessar Avaliações Realizadas |  Cada membro terá uma página pessoal que listará todas as avaliações que ele já realizou.| 
+| Pesquisar Usuário | Os membros logados poderão pesquisar por outros membros pelo nome e acessar as suas páginas pessoais.| 
+| Solicitação de Amizade | Cada membro poderá propor relacionamento de amizade a outro membro. O relacionamento de amizade será estabelecido quando o outro membro aceitar a proposta.|
+| Curtir Publicação de Outro Usuário.| Um membro poderá das um "joinha" nas avaliações de outro membro. Em cada avaliação aparecerá o número de "joinhas" que ela já recebeu. O membro que deu o “joinha” para a avaliação poderá retirá-lo posteriormente se assim desejar.|
+| Mostrar Amigos em Comum  | Quando um membro acessar a página de outro, o sistema deverá mostrar os amigos que eles têm em comum. |
+| Vizualizar Relatório  | O sistema apresenta um relatório ao administrador. |
+| Indicar Conteúdo  | Após o sistema ter pelo menos 10 membros cadastrados e cada membro entrar em pelo menos 10 avaliações, o sistema passará a apresentar para cada membro recomendações de filmes, séries e livros que podem ser de seu interesse. |
+|Sugerir Amizade | Sempre que um membro acessar o sistema, ele deverá receber a sugestão de 3 membros que poderiam ser seus amigos. O critério será sugerir membros que têm preferências semelhantes, com base nas avaliações já realizadas. |
+| Avaliar Conteúdo Cadastrado |O adminitrador valida o conteúdo cadastrado pelo usuário comum.|
 
 
 
