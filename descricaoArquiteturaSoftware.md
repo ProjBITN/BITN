@@ -101,7 +101,7 @@ O Controle (Controller) envia essas ações para o Modelo (Model) e para a janel
 |Sugerir Amizade | Sempre que um membro acessar o sistema, ele deverá receber a sugestão de 3 membros que poderiam ser seus amigos. O critério será sugerir membros que têm preferências semelhantes, com base nas avaliações já realizadas. |
 | Avaliar Conteúdo Cadastrado |O adminitrador valida o conteúdo cadastrado pelo usuário comum.|
 
-## 8. Visão Lógica
+# 8. Visão Lógica
 
 ![Descrição - MVC]()
 
@@ -112,6 +112,29 @@ O Controle (Controller) envia essas ações para o Modelo (Model) e para a janel
 - Controller - É camada controller que fica responsável pelo fluxo do usuário na aplicação. Esta é usada para comunicação com a Model e renderização das Views, com informações procedentes da Model.
 
 - View - É onde os dados solicitados do Modelo (Model) são exibidos. 
+
+
+# 9. Diagrama de Classes
+
+![Diagrama de Classe](https://github.com/ProjBITN/BITN/blob/main/diagramasClasseSequencia/6.diagramaPadraoProjeto.png)
+
+## 9.1 Padrões aplicados ao diagrama de classes
+
+- **1.1. Polimorfismo**
+
+De acordo com o princípio do polimorfismo, a responsabilidade de definir a variação dos comportamentos com base no tipo é atribuída ao tipo para o qual essa variação ocorre. Isto é conseguido utilizando operações polimórficas. O usuário do tipo deve usar operações polimórficas em vez de ramificações explícitas com base no tipo. 
+
+
+- **Creator (criador)**
+
+A criação de objetos é uma das mais comuns atividades em um sistema orientado a objetos. Descobrir qual classe é responsável por criar objetos é uma propriedade fundamental da relação entre objetos de classes particulares.
+
+Em geral, uma classe B deve ser responsável por criar instâncias de classe A se uma, ou preferencialmente mais, das seguintes afirmações se aplicam:
+
+- Instâncias de B contêm ou agregam instâncias de A;
+- Instâncias de B gravam instâncias de A;
+- Instâncias de B utilizam de perto instâncias de A;
+- Instâncias de B têm as informações de iniciação das instâncias de A e passam isso na criação.
 
 
 
