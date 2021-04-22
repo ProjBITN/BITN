@@ -80,7 +80,7 @@ O Controle (Controller) envia essas ações para o Modelo (Model) e para a janel
 | Usuário Administrador	| Usuário que pode utilizar as funcionalidades padrão e outras funcionalidades exclusivas	| 
 
 
-A figura a seguir apresenta o diagrama de casos de uso:
+- A figura a seguir apresenta o diagrama de casos de uso:
 ![Caso de Uso](https://github.com/ProjBITN/BITN/blob/main/casoDeUso/caso-de-uso.png)
 
 
