@@ -79,7 +79,7 @@ A figura a seguir apresenta o diagrama de casos de uso:
 
 ## 7.2.  Realização de Casos de Uso
 
-| **Ator**     | **Descrição**   | 
+| **Ator**     | **Descrição**  |
 | ------|-----|-----|
 | Usuário Comum  	| Usuário que somente pode utilizar as funcionalidades padrão do aplicativo	|
 | Usuário Administrador	| Usuário que pode utilizar as funcionalidades padrão e outras funcionalidades exclusivas	| 
