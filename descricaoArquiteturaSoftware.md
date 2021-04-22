@@ -33,7 +33,7 @@ O Arquiteto de Software é o responsável por elaborar este documento e por mant
 
 O padrão de arquitetura será o MVC que separa a interação entre software e usuário. 
 
-![MVC](https://github.com/ProjBITN/BITN/blob/main/arquiteturaSoftware/MVC.png)
+![MVC](https://github.com/ProjBITN/BITN/blob/main/arquiteturaSoftware/atuacao_das_camadas_mvc.png)
 
 
 ## 5.1. MVC
@@ -103,7 +103,7 @@ O Controle (Controller) envia essas ações para o Modelo (Model) e para a janel
 
 ## 8. Visão Lógica
 
-![Descrição - MVC](https://github.com/ProjBITN/BITN/blob/main/arquiteturaSoftware/atuacao_das_camadas_mvc.png)
+![Descrição - MVC]()
 
 ## 8.1. Realização de Casos de Uso
 
