@@ -77,3 +77,11 @@ O Controle (Controller) envia essas ações para o Modelo (Model) e para a janel
 A figura a seguir apresenta o diagrama de casos de uso:
 ![Caso de Uso](https://github.com/ProjBITN/BITN/blob/main/casoDeUso/caso-de-uso.png)
 
+## 7.2.  Realização de Casos de Uso
+
+| Ator     |  Descrição   | 
+| ------|-----|-----|
+| Usuário Comum  	| Usuário que somente pode utilizar as funcionalidades padrão do aplicativo	|
+| Usuário Administrador	| Usuário que pode utilizar as funcionalidades padrão e outras funcionalidades exclusivas	| 
+
+
