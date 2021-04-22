@@ -66,3 +66,14 @@ Não se dedica em saber como o conhecimento foi retirado ou de onde ela foi obti
 Controle é o componente final da tríade, faz a mediação da entrada e saída, comandando a visão e o modelo para serem alterados de forma apropriada conforme o usuário solicitou através do mouse e teclado. O foco do Controle é a ação do usuário, onde são manipulados os dados que o usuário insere ou atualiza, chamando em seguida o Modelo
 
 O Controle (Controller) envia essas ações para o Modelo (Model) e para a janela de visualização (View) onde serão realizadas as operações necessárias. 
+
+# 6. Requisitos e Restrições Arquiteturais
+
+
+# 7. Visão de Casos de Uso
+
+## 7.1. Caso de Uso 
+
+A figura a seguir apresenta o diagrama de casos de uso:
+![Caso de Uso](https://github.com/ProjBITN/BITN/blob/main/casoDeUso/caso-de-uso.png)
+
