@@ -27,3 +27,5 @@ Para tanto, as definições do projeto já documentadas até o presente momento 
 O Arquiteto de Software é o responsável por elaborar este documento e por manter a integridade do mesmo durante o processo de desenvolvimento do software. Ele deve:
 - Aprovar todas as mudanças arquiteturais significativas e documentá-las.
 - Fazer parte do comitê que decide sobre os problemas que tenham algum impacto arquitetural. 
+
+# Arquitetura
