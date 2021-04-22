@@ -33,7 +33,7 @@ O Arquiteto de Software é o responsável por elaborar este documento e por mant
 
 O padrão de arquitetura será o MVC que separa a interação entre software e usuário. 
 
-![MVC](https://github.com/ProjBITN/BITN/blob/main/arquiteturaSoftware/atuacao_das_camadas_mvc.png)
+![MVC](https://github.com/ProjBITN/BITN/blob/main/arquiteturaSoftware/MVC.png)
 
 
 ## 5.1. MVC
@@ -100,6 +100,12 @@ O Controle (Controller) envia essas ações para o Modelo (Model) e para a janel
 | Indicar Conteúdo  | Após o sistema ter pelo menos 10 membros cadastrados e cada membro entrar em pelo menos 10 avaliações, o sistema passará a apresentar para cada membro recomendações de filmes, séries e livros que podem ser de seu interesse. |
 |Sugerir Amizade | Sempre que um membro acessar o sistema, ele deverá receber a sugestão de 3 membros que poderiam ser seus amigos. O critério será sugerir membros que têm preferências semelhantes, com base nas avaliações já realizadas. |
 | Avaliar Conteúdo Cadastrado |O adminitrador valida o conteúdo cadastrado pelo usuário comum.|
+
+## 8. Visão Lógica
+
+![Descrição - MVC](https://github.com/ProjBITN/BITN/blob/main/arquiteturaSoftware/atuacao_das_camadas_mvc.png)
+
+## 8.1. Realização de Casos de Uso
 
 
 
