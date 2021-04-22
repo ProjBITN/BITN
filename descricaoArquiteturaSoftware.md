@@ -28,4 +28,15 @@ O Arquiteto de Software é o responsável por elaborar este documento e por mant
 - Aprovar todas as mudanças arquiteturais significativas e documentá-las.
 - Fazer parte do comitê que decide sobre os problemas que tenham algum impacto arquitetural. 
 
-# Arquitetura
+
+# Representação Arquitetural
+
+O padrão de arquitetura será o MVC que separa a interação entre software e usuário. 
+
+![MVC](https://github.com/ProjBITN/BITN/blob/main/arquiteturaSoftware/atuacao_das_camadas_mvc.png)
+
+
+
+
+
+
