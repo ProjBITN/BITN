@@ -21,6 +21,12 @@ Este documento serve como um meio de comunicação entre o Arquiteto de Software
 As definições arquiteturais de um projeto de desenvolvimento de software em geral seguem as definições necessárias aos vários projetos de uma organização ou instituição e que atenda a todas as necessidades do projeto, desde a segurança, regras de negócio, até a persistência dos dados.
 Para tanto, as definições do projeto já documentadas até o presente momento devem guiar as primeiras versões do Documento de Arquitetura do Software, que é desenvolvido durante a fase de Elaboração, uma vez que o propósito dessa fase é estabelecer os fundamentos arquiteturais para o projeto do software.
 
+## 3.1 Ferramentas 
+As ferramentas utilizadas para a elaboração do projeto:
+- Para desenvolvimento Netbeans e Dreamvweaver;
+- Para Framework o Bootstrap;
+- API disponível no developérs.google.com.chart.
+ 
 
 # 4. Responsabilidades
 
