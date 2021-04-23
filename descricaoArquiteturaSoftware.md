@@ -24,8 +24,8 @@ Para tanto, as definições do projeto já documentadas até o presente momento 
 ## 3.1 Ferramentas 
 As ferramentas utilizadas para a elaboração do projeto:
 - Para desenvolvimento: Netbeans e Dreamvweaver;
-- Para Framework: o Bootstrap;
-- API disponível no www.developers.google.com.chart.
+- Para Framework: Bootstrap;
+- API disponível no https://developers.google.com/.
  
 
 # 4. Responsabilidades
