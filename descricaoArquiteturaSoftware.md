@@ -103,7 +103,7 @@ O Controle (Controller) envia essas ações para o Modelo (Model) e para a janel
 
 # 8. Visão Lógica
 
-![Descrição - MVC]()
+![Descrição - MVC](https://github.com/ProjBITN/BITN/blob/main/arquiteturaSoftware/MVC-2.png)
 
 ## 8.1. Camadas
 
