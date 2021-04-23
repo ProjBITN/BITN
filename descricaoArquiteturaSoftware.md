@@ -120,7 +120,7 @@ O Controle (Controller) envia essas ações para o Modelo (Model) e para a janel
 
 ## 9.1 Padrões aplicados ao diagrama de classes
 
-- **1.1. Polimorfismo**
+- **Polimorfismo**
 
 De acordo com o princípio do polimorfismo, a responsabilidade de definir a variação dos comportamentos com base no tipo é atribuída ao tipo para o qual essa variação ocorre. Isto é conseguido utilizando operações polimórficas. O usuário do tipo deve usar operações polimórficas em vez de ramificações explícitas com base no tipo. 
 
