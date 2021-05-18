@@ -55,7 +55,7 @@ A tabela abaixo identifica a documentação e disponibilidade usados para desenv
 | ------|-----|-----|
 | Especificação de Requisitos  	| (X) SIM / ( ) NÃO 	| (X) SIM / ( ) NÃO 	|
 | Diagramas		| (X) SIM / ( ) NÃO 	| (X) SIM / ( ) NÃO  	|
-| Protótipo		| (X) SIM / ( ) NÃO  	| (X) SIM / ( ) NÃOO 	|
+| Protótipo		| (X) SIM / ( ) NÃO  	| (X) SIM / ( ) NÃO 	|
 
 
 
