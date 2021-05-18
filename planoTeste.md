@@ -258,7 +258,7 @@ A tabela seguinte expõe os recursos do sistema para o projeto de teste.
 | Avaliar Teste	    	|    04/04/2021    	|       15/05/2021   	|
 
 
-# 6. Conclusão
+
 
 
 
