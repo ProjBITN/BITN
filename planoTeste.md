@@ -66,40 +66,40 @@ A tabela abaixo identifica aqueles itens – use cases, requisitos funcionais e 
 
 |   Rercurso      |   Subrecurso    |    Resultado  |   Observação   |
 | ------|-----|-----|-----|
-| Criar Usuário 	         |     	| 	  | 	  |
-| Login Inválido        	|     	| 	  | 	  |
-| Esqueci a Senha       	|     	| 	  | 	  |
-| Efetuar Logon Comum   	|     	| 	  | 	  |
-| Efetuar Logon Administrativo	 |     	| 	  | 	  |
-| Alterar Perfil Usuário 	|   Textos e Senha 	| 	  | 	  |
-| Alterar Perfil Usuário	|   Foto Principal 	| 	  | 	  |
-| Alterar Perfil Usuário	|   Foto Miniatura 	| 	  | 	  |
-| Alterar Perfil Usuário 	|   Fundo         	| 	  | 	  |
-| Criar Post Livros       |   Com Foto       	| 	  | 	  |
-| Criar Post Livros       |   Sem Foto       	| 	  | 	  |
-| Criar Post Séries       |   Com Foto       	| 	  | 	  |
-| Criar Post Séries       |   Sem Foto       	| 	  | 	  |
-| Criar Post Filmes       |   Com Foto       	| 	  | 	  |
-| Criar Post Filmes       |   Sem Foto       	| 	  | 	  |
-| Visualizar Post         |   Livros         	| 	  | 	  |
-| Visualizar Post         |   Séries         	| 	  | 	  |
-| Visualizar Post         |   Filmes         	| 	  | 	  |
-| Validar Post (User ADM) |   Visualizar     	| 	  | 	  |
-| Validar Post (User ADM) |   Autorizar      	| 	  | 	  |
-| Validar Post (User ADM) |   Negar          	| 	  | 	  |
-| Alterar Dados do Post   |   Livros         	| 	  | 	  |
-| Alterar Dados do Post   |   Séries         	| 	  | 	  |
-| Alterar Dados do Post   |   Filmes         	| 	  | 	  |
-| Testar Like             |   Avaliações     	| 	  | 	  |
-| Criar Amigos            |                  	| 	  | 	  |
-| Desfazer Amizades       |                  	| 	  | 	  |
-| Meus Últimos Posts      |                  	| 	  | 	  |
-| Últimos Visitados       |                  	| 	  | 	  |
-| Recomendados            |                  	| 	  | 	  |
-| Avaliações Recentes     |                  	| 	  | 	  |
-| Testar Tela do Perfil   |                  	| 	  | 	  |
-| Performance             |                  	| 	  | 	  |
-| Logoff                  |                  	| 	  | 	  |
+| Criar Usuário 	        |                 	|   Realizado com sucesso	 | 	  |
+| Login Inválido        	|                  	| 	Realizado com sucesso  | 	  |
+| Esqueci a Senha       	|                 	| 	Realizado com sucesso  | 	  |
+| Efetuar Logon Comum   	|     	            | 	Realizado com sucesso  | 	  |
+| Efetuar Logon Administrativo	 |           	| 	Realizado com sucesso  | 	  |
+| Alterar Perfil Usuário 	|   Textos e Senha 	| 	Realizado com sucesso  | 	  |
+| Alterar Perfil Usuário	|   Foto Principal 	| 	Realizado com sucesso  | 	  |
+| Alterar Perfil Usuário	|   Foto Miniatura 	| 	Realizado com sucesso  | 	  |
+| Alterar Perfil Usuário 	|   Fundo         	| 	Realizado com sucesso  | 	  |
+| Criar Post Livros       |   Com Foto       	| 	Realizado com sucesso  | 	  |
+| Criar Post Livros       |   Sem Foto       	| 	Realizado com sucesso  | 	  |
+| Criar Post Séries       |   Com Foto       	| 	Realizado com sucesso  | 	  |
+| Criar Post Séries       |   Sem Foto       	| 	Realizado com sucesso  | 	  |
+| Criar Post Filmes       |   Com Foto       	| 	Realizado com sucesso  | 	  |
+| Criar Post Filmes       |   Sem Foto       	| 	Realizado com sucesso  | 	  |
+| Visualizar Post         |   Livros         	| 	Realizado com sucesso  | 	  |
+| Visualizar Post         |   Séries         	| 	Realizado com sucesso  | 	  |
+| Visualizar Post         |   Filmes         	| 	Realizado com sucesso  | 	  |
+| Validar Post (User ADM) |   Visualizar     	| 	Realizado com sucesso  | 	  |
+| Validar Post (User ADM) |   Autorizar      	| 	Realizado com sucesso | 	  |
+| Validar Post (User ADM) |   Negar          	| 	Realizado com sucesso  | 	  |
+| Alterar Dados do Post   |   Livros         	| 	Realizado com sucesso  | 	  |
+| Alterar Dados do Post   |   Séries         	| 	Realizado com sucesso  | 	  |
+| Alterar Dados do Post   |   Filmes         	| 	Realizado com sucesso  | 	  |
+| Testar Like             |   Avaliações     	| 	Realizado com sucesso  | 	  |
+| Criar Amigos            |                  	| 	Realizado com sucesso  | 	  |
+| Desfazer Amizades       |                  	| 	Realizado com sucesso  | 	  |
+| Meus Últimos Posts      |                  	| 	Realizado com sucesso | 	  |
+| Últimos Visitados       |                  	| 	Realizado com sucesso  | 	  |
+| Recomendados            |                  	| 	Realizado com sucesso  | 	  |
+| Avaliações Recentes     |                  	| 	Realizado com sucesso  | 	  |
+| Testar Tela do Perfil   |                  	| 	Realizado com sucesso  | 	  |
+| Performance             |                  	| 	Realizado com sucesso  | 	  |
+| Logoff                  |                  	| 	Realizado com sucesso  | 	  |
 
 
 # 3. Estratégia de Teste
@@ -251,8 +251,8 @@ A tabela seguinte expõe os recursos do sistema para o projeto de teste.
 
 | **Milestone**      |  **Data de Início**     | **Data de Término** |
 | ------|-----|-----|
-| Planejar Teste 	|    22/03/2021 	|  04/04/2021 	|
-| Projetar Teste	|    22/03/2021 	|  04/04/2021 	|
+| Planejar Teste     	|    22/03/2021    	|       04/04/2021   	|
+| Projetar Teste	    |    22/03/2021   	|       04/04/2021   	|
 | Implementar Teste		|    04/04/2021    	|       15/05/2021   	|
 | Executar Teste		  |    04/04/2021    	|       15/05/2021   	|
 | Avaliar Teste	    	|    04/04/2021    	|       15/05/2021   	|
@@ -260,6 +260,6 @@ A tabela seguinte expõe os recursos do sistema para o projeto de teste.
 
 # 6. Conclusão
 
-[Em andamento]
+
 
 
